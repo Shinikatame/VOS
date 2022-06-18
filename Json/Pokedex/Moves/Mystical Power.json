@@ -1,0 +1,15 @@
+{
+    "name": "Mystical Power",
+    "type": "Psychic",
+    "category": "Special",
+    "basePower": 70,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Offensive or Defensive stats are raised based on the user's higher stat.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/mystical-power",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/mysticalpower.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Mystical_Power_(move)"
+}

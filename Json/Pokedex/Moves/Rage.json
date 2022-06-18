@@ -1,0 +1,15 @@
+{
+    "name": "Rage",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 20,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Raises the user's Attack by 1 if hit during use.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/rage",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/rage.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Rage_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Wave Crash",
+    "type": "Water",
+    "category": "Physical",
+    "basePower": 75,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Has 33% recoil and raises user's action speed",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/wave-crash",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/wavecrash.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Wave_Crash_(move)"
+}

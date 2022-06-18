@@ -1,0 +1,15 @@
+{
+    "name": "Surging Strikes",
+    "type": "Water",
+    "category": "Physical",
+    "basePower": 25,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Always results in a critical hit. Hits 3 times.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/surging-strikes",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/surgingstrikes.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Surging_Strikes_(move)"
+}

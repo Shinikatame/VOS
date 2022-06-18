@@ -1,0 +1,15 @@
+{
+    "name": "Floral Healing",
+    "type": "Fairy",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Heals the target by 50% of its max HP.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/floral-healing",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/floralhealing.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Floral_Healing_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Tail Whip",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 30,
+    "target": "Adjacent Foes",
+    "shortDesc": "Lowers the foe(s) Defense by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/tail-whip",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/tailwhip.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Tail_Whip_(move)"
+}

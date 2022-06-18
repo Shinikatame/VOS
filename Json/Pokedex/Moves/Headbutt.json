@@ -1,0 +1,15 @@
+{
+    "name": "Headbutt",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 70,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "30% chance to make the target flinch.",
+    "isFieldMove": "The Pok\u00e9mon can shake a small tree which may cause a wild Pok\u00e9mon to fall down. It can be taught to a Pok\u00e9mon by using TM02 in Generation II. Though available as a level up move in Generation I and future generations, it only had status as a field move in Generation II and Generation IV's HeartGold and SoulSilver.",
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/headbutt",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/headbutt.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Headbutt_(move)"
+}

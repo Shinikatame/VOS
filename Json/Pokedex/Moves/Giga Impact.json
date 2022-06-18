@@ -1,0 +1,15 @@
+{
+    "name": "Giga Impact",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 150,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "User cannot move next turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/giga-impact",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/gigaimpact.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Giga_Impact_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Lucky Chant",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 30,
+    "target": "Ally's Side",
+    "shortDesc": "For 5 turns, shields user's party from critical hits.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/lucky-chant",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/luckychant.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Lucky_Chant_(move)"
+}

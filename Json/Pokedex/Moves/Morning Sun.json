@@ -1,0 +1,15 @@
+{
+    "name": "Morning Sun",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Self",
+    "shortDesc": "Heals the user by a weather-dependent amount.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/morning-sun",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/morningsun.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Morning_Sun_(move)"
+}

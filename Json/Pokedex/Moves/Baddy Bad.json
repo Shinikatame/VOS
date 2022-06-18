@@ -1,0 +1,15 @@
+{
+    "name": "Baddy Bad",
+    "type": "Dark",
+    "category": "Special",
+    "basePower": 80,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Summons Reflect.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/baddy-bad",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/baddybad.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Baddy_Bad_(move)"
+}

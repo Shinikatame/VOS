@@ -1,0 +1,15 @@
+{
+    "name": "Ice Ball",
+    "type": "Ice",
+    "category": "Physical",
+    "basePower": 30,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Power doubles with each hit. Repeats for 5 turns.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/ice-ball",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/iceball.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Ice_Ball_(move)"
+}

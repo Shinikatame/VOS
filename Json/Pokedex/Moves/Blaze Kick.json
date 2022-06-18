@@ -1,0 +1,15 @@
+{
+    "name": "Blaze Kick",
+    "type": "Fire",
+    "category": "Physical",
+    "basePower": 85,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "High critical hit ratio. 10% chance to burn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/blaze-kick",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/blazekick.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Blaze_Kick_(move)"
+}

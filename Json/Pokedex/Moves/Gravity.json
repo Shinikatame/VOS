@@ -1,0 +1,15 @@
+{
+    "name": "Gravity",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "All",
+    "shortDesc": "5 turns: no Ground immunities, 1.67x accuracy.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/gravity",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/gravity.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Gravity_(move)"
+}

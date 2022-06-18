@@ -1,0 +1,15 @@
+{
+    "name": "Volt Switch",
+    "type": "Electric",
+    "category": "Special",
+    "basePower": 70,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "User switches out after damaging the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/volt-switch",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/voltswitch.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Volt_Switch_(move)"
+}

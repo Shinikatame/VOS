@@ -1,0 +1,15 @@
+{
+    "name": "Acid Spray",
+    "type": "Poison",
+    "category": "Special",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "100% chance to lower the target's Sp. Def by 2.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/acid-spray",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/acidspray.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Acid_Spray_(move)"
+}

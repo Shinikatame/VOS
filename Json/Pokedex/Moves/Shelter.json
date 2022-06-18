@@ -1,0 +1,15 @@
+{
+    "name": "Shelter",
+    "type": "Steel",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "Raises defensive stats and evasiveness",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/shelter",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/shelter.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Shelter_(move)"
+}

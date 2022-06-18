@@ -1,0 +1,15 @@
+{
+    "name": "Fiery Dance",
+    "type": "Fire",
+    "category": "Special",
+    "basePower": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "50% chance to raise the user's Sp. Atk by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/fiery-dance",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/fierydance.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Fiery_Dance_(move)"
+}

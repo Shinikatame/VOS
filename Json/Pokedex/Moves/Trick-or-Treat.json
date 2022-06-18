@@ -1,0 +1,15 @@
+{
+    "name": "Trick-or-Treat",
+    "type": "Ghost",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Adds Ghost to the target's type(s).",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/trick-or-treat",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/trickortreat.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Trick_or_treat_(move)"
+}

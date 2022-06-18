@@ -1,0 +1,15 @@
+{
+    "name": "Speed Swap",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Swaps Speed stat with target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/speed-swap",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/speedswap.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Speed_Swap_(move)"
+}

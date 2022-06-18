@@ -1,0 +1,15 @@
+{
+    "name": "Crafty Shield",
+    "type": "Fairy",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 3,
+    "pp": 10,
+    "target": "Ally's Side",
+    "shortDesc": "Protects allies from Status moves this turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/crafty-shield",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/craftyshield.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Crafty_Shield_(move)"
+}

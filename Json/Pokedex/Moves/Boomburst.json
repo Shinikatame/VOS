@@ -1,0 +1,15 @@
+{
+    "name": "Boomburst",
+    "type": "Normal",
+    "category": "Special",
+    "basePower": 140,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "All Adjacent",
+    "shortDesc": "No additional effect. Hits adjacent Pok\u00e9mon.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/boomburst",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/boomburst.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Boomburst_(move)"
+}

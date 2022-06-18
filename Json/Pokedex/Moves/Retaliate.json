@@ -1,0 +1,15 @@
+{
+    "name": "Retaliate",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 70,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Power doubles if an ally fainted last turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/retaliate",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/retaliate.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Retaliate_(move)"
+}

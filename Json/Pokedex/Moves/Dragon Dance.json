@@ -1,0 +1,15 @@
+{
+    "name": "Dragon Dance",
+    "type": "Dragon",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Self",
+    "shortDesc": "Raises the user's Attack and Speed by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/dragon-dance",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/dragondance.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Dance_(move)"
+}

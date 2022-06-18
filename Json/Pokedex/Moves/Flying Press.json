@@ -1,0 +1,15 @@
+{
+    "name": "Flying Press",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 100,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 10,
+    "target": "Any",
+    "shortDesc": "Combines Flying in its type effectiveness.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/flying-press",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/flyingpress.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Flying_Press_(move)"
+}

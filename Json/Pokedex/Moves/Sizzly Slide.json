@@ -1,0 +1,15 @@
+{
+    "name": "Sizzly Slide",
+    "type": "Fire",
+    "category": "Physical",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "100% chance to burn the foe.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sizzly-slide",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/sizzlyslide.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sizzly_Slide_(move)"
+}

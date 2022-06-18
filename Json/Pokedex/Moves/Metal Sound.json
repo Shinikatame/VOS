@@ -1,0 +1,15 @@
+{
+    "name": "Metal Sound",
+    "type": "Steel",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 40,
+    "target": "Normal",
+    "shortDesc": "Lowers the target's Sp. Def by 2.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/metal-sound",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/metalsound.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Metal_Sound_(move)"
+}

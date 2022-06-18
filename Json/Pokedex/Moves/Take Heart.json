@@ -1,0 +1,15 @@
+{
+    "name": "Take Heart",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "Heals user's status conditions and raises offensive and defensive stats.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/take-heart",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/takeheart.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Take_Heart_(move)"
+}

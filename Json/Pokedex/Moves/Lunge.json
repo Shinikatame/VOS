@@ -1,0 +1,15 @@
+{
+    "name": "Lunge",
+    "type": "Bug",
+    "category": "Physical",
+    "basePower": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "100% chance to lower the target's Attack by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/lunge",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/lunge.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Lunge_(move)"
+}

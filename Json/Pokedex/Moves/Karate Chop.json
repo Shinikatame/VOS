@@ -1,0 +1,15 @@
+{
+    "name": "Karate Chop",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 50,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 25,
+    "target": "Normal",
+    "shortDesc": "High critical hit ratio.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/karate-chop",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/karatechop.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Karate_Chop_(move)"
+}

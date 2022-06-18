@@ -1,0 +1,15 @@
+{
+    "name": "First Impression",
+    "type": "Bug",
+    "category": "Physical",
+    "basePower": 90,
+    "accuracy": 100,
+    "priority": 2,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Hits first. First turn out only.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/first-impression",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/firstimpression.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/First_Impression_(move)"
+}

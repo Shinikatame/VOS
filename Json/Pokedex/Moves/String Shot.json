@@ -1,0 +1,15 @@
+{
+    "name": "String Shot",
+    "type": "Bug",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 40,
+    "target": "Adjacent Foes",
+    "shortDesc": "Lowers the foe(s) Speed by 2.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/string-shot",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/stringshot.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/String_Shot_(move)"
+}

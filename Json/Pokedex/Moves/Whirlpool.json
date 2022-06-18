@@ -1,0 +1,15 @@
+{
+    "name": "Whirlpool",
+    "type": "Water",
+    "category": "Special",
+    "basePower": 35,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Traps and damages the target for 4-5 turns.",
+    "isFieldMove": "The Pok\u00e9mon can dismiss small whirlpools in the water. Whirlpool is taught to Pok\u00e9mon with HM06 in generation II and generation IV's HeartGold and SoulSilver as HM05",
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/whirlpool",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/whirlpool.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Whirlpool_(move)"
+}

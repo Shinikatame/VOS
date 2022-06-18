@@ -1,0 +1,15 @@
+{
+    "name": "Tar Shot",
+    "type": "Rock",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Target gets -1 Spe and becomes weaker to Fire.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/tar-shot",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/tarshot.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Tar_Shot_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Bullet Seed",
+    "type": "Grass",
+    "category": "Physical",
+    "basePower": 25,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 30,
+    "target": "Normal",
+    "shortDesc": "Hits 2-5 times in one turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/bullet-seed",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/bulletseed.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Bullet_Seed_(move)"
+}

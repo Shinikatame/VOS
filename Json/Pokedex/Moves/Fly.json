@@ -1,0 +1,15 @@
+{
+    "name": "Fly",
+    "type": "Flying",
+    "category": "Physical",
+    "basePower": 90,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 15,
+    "target": "Any",
+    "shortDesc": "Flies up on first turn, then strikes the next turn.",
+    "isFieldMove": "The Pok\u00e9mon can fly the player to any previously visited town/landmark. Fly can be taught to Pok\u00e9mon with HM02 in all generations.",
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/fly",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/fly.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Fly_(move)"
+}

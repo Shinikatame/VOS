@@ -1,0 +1,15 @@
+{
+    "name": "Forest's Curse",
+    "type": "Grass",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Adds Grass to the target's type(s).",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/forest-s-curse",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/forestscurse.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Forest_s_Curse_(move)"
+}

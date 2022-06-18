@@ -1,0 +1,15 @@
+{
+    "name": "Powder",
+    "type": "Bug",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 1,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "If using a Fire move, target loses 1/4 max HP.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/powder",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/powder.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Powder_(move)"
+}

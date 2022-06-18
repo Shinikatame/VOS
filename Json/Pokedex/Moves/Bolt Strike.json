@@ -1,0 +1,15 @@
+{
+    "name": "Bolt Strike",
+    "type": "Electric",
+    "category": "Physical",
+    "basePower": 130,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "20% chance to paralyze the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/bolt-strike",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/boltstrike.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Bolt_Strike_(move)"
+}

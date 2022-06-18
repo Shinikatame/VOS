@@ -1,0 +1,15 @@
+{
+    "name": "Roost",
+    "type": "Flying",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "Heals 50% HP. Flying-type removed 'til turn ends.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/roost",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/roost.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Roost_(move)"
+}

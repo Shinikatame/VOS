@@ -1,0 +1,15 @@
+{
+    "name": "Captivate",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Adjacent Foes",
+    "shortDesc": "Lowers the foe(s) Sp. Atk by 2 if opposite gender.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/captivate",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/captivate.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Captivate_(move)"
+}

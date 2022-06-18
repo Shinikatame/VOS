@@ -1,0 +1,15 @@
+{
+    "name": "Psychic Terrain",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "All",
+    "shortDesc": "5 turns. Grounded: +Psychic power, priority-safe.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/psychic-terrain",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/psychicterrain.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Psychic_Terrain_(move)"
+}

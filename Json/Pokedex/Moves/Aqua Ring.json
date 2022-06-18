@@ -1,0 +1,15 @@
+{
+    "name": "Aqua Ring",
+    "type": "Water",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Self",
+    "shortDesc": "User recovers 1/16 max HP per turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/aqua-ring",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/aquaring.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Aqua_Ring_(move)"
+}

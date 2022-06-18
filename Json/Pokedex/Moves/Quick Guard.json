@@ -1,0 +1,15 @@
+{
+    "name": "Quick Guard",
+    "type": "Fighting",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 3,
+    "pp": 15,
+    "target": "Ally's Side",
+    "shortDesc": "Protects allies from priority attacks this turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/quick-guard",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/quickguard.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Quick_Guard_(move)"
+}

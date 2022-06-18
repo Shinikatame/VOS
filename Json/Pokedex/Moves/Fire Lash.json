@@ -1,0 +1,15 @@
+{
+    "name": "Fire Lash",
+    "type": "Fire",
+    "category": "Physical",
+    "basePower": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "100% chance to lower the target's Defense by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/fire-lash",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/firelash.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Fire_Lash_(move)"
+}

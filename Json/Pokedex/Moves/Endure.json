@@ -1,0 +1,15 @@
+{
+    "name": "Endure",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 4,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "The user survives the next hit with at least 1 HP.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/endure",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/endure.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Endure_(move)"
+}

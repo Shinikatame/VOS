@@ -1,0 +1,15 @@
+{
+    "name": "Dragon Ascent",
+    "type": "Flying",
+    "category": "Physical",
+    "basePower": 120,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Any",
+    "shortDesc": "Lowers the user's Defense and Sp. Def by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/dragon-ascent",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/dragonascent.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Ascent_(move)"
+}

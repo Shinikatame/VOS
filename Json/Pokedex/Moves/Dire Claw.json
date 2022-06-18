@@ -1,0 +1,15 @@
+{
+    "name": "Dire Claw",
+    "type": "Poison",
+    "category": "Physical",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Has a 50% chance to inflict Poison, Paralyze, or cause Drowsiness on the target",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/dire-claw",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/direclaw.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Dire_Claw_(move)"
+}

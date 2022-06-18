@@ -1,0 +1,15 @@
+{
+    "name": "Blue Flare",
+    "type": "Fire",
+    "category": "Special",
+    "basePower": 130,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "20% chance to burn the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/blue-flare",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/blueflare.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Blue_Flare_(move)"
+}

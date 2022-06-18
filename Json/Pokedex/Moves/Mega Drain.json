@@ -1,0 +1,15 @@
+{
+    "name": "Mega Drain",
+    "type": "Grass",
+    "category": "Special",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "User recovers 50% of the damage dealt.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/mega-drain",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/megadrain.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Mega_Drain_(move)"
+}

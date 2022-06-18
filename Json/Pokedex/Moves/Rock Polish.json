@@ -1,0 +1,15 @@
+{
+    "name": "Rock Polish",
+    "type": "Rock",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Self",
+    "shortDesc": "Raises the user's Speed by 2.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/rock-polish",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/rockpolish.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Rock_Polish_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Mist Ball",
+    "type": "Psychic",
+    "category": "Special",
+    "basePower": 70,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "50% chance to lower the target's Sp. Atk by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/mist-ball",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/mistball.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Mist_Ball_(move)"
+}

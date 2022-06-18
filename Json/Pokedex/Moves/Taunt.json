@@ -1,0 +1,15 @@
+{
+    "name": "Taunt",
+    "type": "Dark",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "For 3 turns, the target can't use status moves.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/taunt",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/taunt.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Taunt_(move)"
+}

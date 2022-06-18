@@ -1,0 +1,15 @@
+{
+    "name": "Sparkly Swirl",
+    "type": "Fairy",
+    "category": "Special",
+    "basePower": 120,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Cures the user's party of all status conditions.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sparkly-swirl",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/sparklyswirl.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sparkly_Swirl_(move)"
+}

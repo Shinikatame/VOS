@@ -1,0 +1,15 @@
+{
+    "name": "Stomp",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 65,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "30% chance to make the target flinch.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/stomp",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/stomp.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Stomp_(move)"
+}

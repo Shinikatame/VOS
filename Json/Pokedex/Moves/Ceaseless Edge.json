@@ -1,0 +1,15 @@
+{
+    "name": "Ceaseless Edge",
+    "type": "Dark",
+    "category": "Physical",
+    "basePower": 65,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "For 4 turns, deals damage at the end of each turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/ceaseless-edge",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/ceaselessedge.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Ceaseless_Edge_(move)"
+}

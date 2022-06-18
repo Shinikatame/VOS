@@ -1,0 +1,15 @@
+{
+    "name": "Spikes",
+    "type": "Ground",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Foe's Side",
+    "shortDesc": "Hurts grounded foes on switch-in. Max 3 layers.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/spikes",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/spikes.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Spikes_(move)"
+}

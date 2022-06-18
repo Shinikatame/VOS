@@ -1,0 +1,15 @@
+{
+    "name": "Poison Tail",
+    "type": "Poison",
+    "category": "Physical",
+    "basePower": 50,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 25,
+    "target": "Normal",
+    "shortDesc": "High critical hit ratio. 10% chance to poison.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/poison-tail",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/poisontail.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Poison_Tail_(move)"
+}

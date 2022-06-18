@@ -1,0 +1,15 @@
+{
+    "name": "Darkest Lariat",
+    "type": "Dark",
+    "category": "Physical",
+    "basePower": 85,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Ignores the target's stat stage changes.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/darkest-lariat",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/darkestlariat.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Darkest_Lariat_(move)"
+}

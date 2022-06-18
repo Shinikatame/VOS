@@ -1,0 +1,15 @@
+{
+    "name": "Electrify",
+    "type": "Electric",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Changes the target's move to Electric this turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/electrify",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/electrify.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Electrify_(move)"
+}

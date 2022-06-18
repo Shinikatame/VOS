@@ -1,0 +1,15 @@
+{
+    "name": "Behemoth Bash",
+    "type": "Steel",
+    "category": "Physical",
+    "basePower": 100,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Damage doubles if the target is Dynamaxed.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/behemoth-bash",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/behemothbash.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Behemoth_Bash_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Draining Kiss",
+    "type": "Fairy",
+    "category": "Special",
+    "basePower": 50,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "User recovers 75% of the damage dealt.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/draining-kiss",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/drainingkiss.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Draining_Kiss_(move)"
+}

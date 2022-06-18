@@ -1,0 +1,15 @@
+{
+    "name": "Moongeist Beam",
+    "type": "Ghost",
+    "category": "Special",
+    "basePower": 100,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Ignores the Abilities of other Pok\u00e9mon.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/moongeist-beam",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/moongeistbeam.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Moongeist_Beam_(move)"
+}

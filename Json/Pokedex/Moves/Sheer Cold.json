@@ -1,0 +1,15 @@
+{
+    "name": "Sheer Cold",
+    "type": "Ice",
+    "category": "Special",
+    "basePower": 0,
+    "accuracy": 30,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "OHKOs non-Ice targets. Fails if user's lower level.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sheer-cold",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/sheercold.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sheer_Cold_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Mist",
+    "type": "Ice",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 30,
+    "target": "Ally's Side",
+    "shortDesc": "For 5 turns, protects user's party from stat drops.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/mist",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/mist.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Mist_(move)"
+}

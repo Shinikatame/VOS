@@ -1,0 +1,15 @@
+{
+    "name": "Octolock",
+    "type": "Fighting",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Traps target, lowers Def and SpD by 1 each turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/octolock",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/octolock.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Octolock_(move)"
+}

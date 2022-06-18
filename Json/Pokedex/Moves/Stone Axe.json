@@ -1,0 +1,15 @@
+{
+    "name": "Stone Axe",
+    "type": "Rock",
+    "category": "Physical",
+    "basePower": 65,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "For 4 turns will deal damage at the end of each turn",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/stone-axe",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/stoneaxe.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Stone_Axe_(move)"
+}

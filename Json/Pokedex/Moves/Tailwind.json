@@ -1,0 +1,15 @@
+{
+    "name": "Tailwind",
+    "type": "Flying",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Ally's Side",
+    "shortDesc": "For 4 turns, allies' Speed is doubled.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/tailwind",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/tailwind.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Tailwind_(move)"
+}

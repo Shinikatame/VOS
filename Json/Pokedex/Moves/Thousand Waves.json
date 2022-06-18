@@ -1,0 +1,15 @@
+{
+    "name": "Thousand Waves",
+    "type": "Ground",
+    "category": "Physical",
+    "basePower": 90,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Adjacent Foes",
+    "shortDesc": "Hits adjacent foes. Prevents them from switching.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/thousand-waves",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/thousandwaves.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Thousand_Waves_(move)"
+}

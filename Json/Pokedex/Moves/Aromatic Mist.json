@@ -1,0 +1,15 @@
+{
+    "name": "Aromatic Mist",
+    "type": "Fairy",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Adjacent Ally",
+    "shortDesc": "Raises an ally's Sp. Def by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/aromatic-mist",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/aromaticmist.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Aromatic_Mist_(move)"
+}

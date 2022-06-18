@@ -1,0 +1,15 @@
+{
+    "name": "Water Shuriken",
+    "type": "Water",
+    "category": "Special",
+    "basePower": 15,
+    "accuracy": 100,
+    "priority": 1,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Hits 2-5 times in one turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/water-shuriken",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/watershuriken.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Water_Shuriken_(move)"
+}

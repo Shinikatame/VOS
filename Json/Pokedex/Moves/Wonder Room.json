@@ -1,0 +1,15 @@
+{
+    "name": "Wonder Room",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "All",
+    "shortDesc": "For 5 turns, all Defense and Sp. Def stats switch.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/wonder-room",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/wonderroom.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Wonder_Room_(move)"
+}

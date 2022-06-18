@@ -1,0 +1,15 @@
+{
+    "name": "Mega Kick",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 120,
+    "accuracy": 75,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "No additional effect.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/mega-kick",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/megakick.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Mega_Kick_(move)"
+}

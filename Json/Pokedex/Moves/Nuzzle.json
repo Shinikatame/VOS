@@ -1,0 +1,15 @@
+{
+    "name": "Nuzzle",
+    "type": "Electric",
+    "category": "Physical",
+    "basePower": 20,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "100% chance to paralyze the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/nuzzle",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/nuzzle.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Nuzzle_(move)"
+}

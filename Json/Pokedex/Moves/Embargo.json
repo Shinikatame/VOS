@@ -1,0 +1,15 @@
+{
+    "name": "Embargo",
+    "type": "Dark",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "For 5 turns, the target's item has no effect.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/embargo",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/embargo.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Embargo_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Will-O-Wisp",
+    "type": "Fire",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Burns the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/will-o-wisp",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/willowisp.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Will_o_wisp_(move)"
+}

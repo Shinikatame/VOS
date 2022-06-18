@@ -1,0 +1,15 @@
+{
+    "name": "Wish",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "Next turn, 50% of the user's max HP is restored.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/wish",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/wish.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Wish_(move)"
+}

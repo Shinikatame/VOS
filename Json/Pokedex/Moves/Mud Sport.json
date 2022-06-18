@@ -1,0 +1,15 @@
+{
+    "name": "Mud Sport",
+    "type": "Ground",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "All",
+    "shortDesc": "For 5 turns, Electric-type attacks have 1/3 power.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/mud-sport",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/mudsport.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Mud_Sport_(move)"
+}

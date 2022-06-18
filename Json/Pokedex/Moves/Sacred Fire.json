@@ -1,0 +1,15 @@
+{
+    "name": "Sacred Fire",
+    "type": "Fire",
+    "category": "Physical",
+    "basePower": 100,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "50% chance to burn the target. Thaws user.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sacred-fire",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/sacredfire.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sacred_Fire_(move)"
+}

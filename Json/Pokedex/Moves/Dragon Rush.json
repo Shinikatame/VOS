@@ -1,0 +1,15 @@
+{
+    "name": "Dragon Rush",
+    "type": "Dragon",
+    "category": "Physical",
+    "basePower": 100,
+    "accuracy": 75,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "20% chance to make the target flinch.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/dragon-rush",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/dragonrush.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Rush_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Gear Up",
+    "type": "Steel",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Ally's Side",
+    "shortDesc": "Raises Atk, Sp. Atk of allies with Plus/Minus by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/gear-up",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/gearup.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Gear_Up_(move)"
+}

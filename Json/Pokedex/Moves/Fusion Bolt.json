@@ -1,0 +1,15 @@
+{
+    "name": "Fusion Bolt",
+    "type": "Electric",
+    "category": "Physical",
+    "basePower": 100,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Power doubles if used after Fusion Flare this turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/fusion-bolt",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/fusionbolt.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Fusion_Bolt_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Vine Whip",
+    "type": "Grass",
+    "category": "Physical",
+    "basePower": 45,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 25,
+    "target": "Normal",
+    "shortDesc": "No additional effect.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/vine-whip",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/vinewhip.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Vine_Whip_(move)"
+}

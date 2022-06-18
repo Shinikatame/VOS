@@ -1,0 +1,15 @@
+{
+    "name": "Heart Stamp",
+    "type": "Psychic",
+    "category": "Physical",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 25,
+    "target": "Normal",
+    "shortDesc": "30% chance to make the target flinch.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/heart-stamp",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/heartstamp.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Heart_Stamp_(move)"
+}

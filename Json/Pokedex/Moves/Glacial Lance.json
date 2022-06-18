@@ -1,0 +1,15 @@
+{
+    "name": "Glacial Lance",
+    "type": "Ice",
+    "category": "Physical",
+    "basePower": 130,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Adjacent Foes",
+    "shortDesc": "No additional effect. Hits adjacent foes.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/glacial-lance",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/glaciallance.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Glacial_Lance_(move)"
+}

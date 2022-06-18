@@ -1,0 +1,15 @@
+{
+    "name": "Night Slash",
+    "type": "Dark",
+    "category": "Physical",
+    "basePower": 70,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "High critical hit ratio.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/night-slash",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/nightslash.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Night_Slash_(move)"
+}

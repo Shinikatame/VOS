@@ -1,0 +1,15 @@
+{
+    "name": "Ion Deluge",
+    "type": "Electric",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 1,
+    "pp": 25,
+    "target": "All",
+    "shortDesc": "Normal moves become Electric type this turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/ion-deluge",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/iondeluge.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Ion_Deluge_(move)"
+}

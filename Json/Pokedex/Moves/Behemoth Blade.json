@@ -1,0 +1,15 @@
+{
+    "name": "Behemoth Blade",
+    "type": "Steel",
+    "category": "Physical",
+    "basePower": 100,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Damage doubles if the target is Dynamaxed.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/behemoth-blade",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/behemothblade.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Behemoth_Blade_(move)"
+}

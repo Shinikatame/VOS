@@ -1,0 +1,15 @@
+{
+    "name": "Electro Ball",
+    "type": "Electric",
+    "category": "Special",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "More power the faster the user is than the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/electro-ball",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/electroball.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Electro_Ball_(move)"
+}

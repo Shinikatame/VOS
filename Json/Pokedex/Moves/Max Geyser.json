@@ -1,0 +1,15 @@
+{
+    "name": "Max Geyser",
+    "type": "Water",
+    "category": "Physical",
+    "basePower": 10,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Adjacent Foes",
+    "shortDesc": "Base move affects power. Starts Rain Dance.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/max-geyser",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/maxgeyser.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Max_Geyser_(move)"
+}

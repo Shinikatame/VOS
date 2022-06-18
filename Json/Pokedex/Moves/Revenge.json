@@ -1,0 +1,15 @@
+{
+    "name": "Revenge",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": -4,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Power doubles if user is damaged by the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/revenge",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/revenge.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Revenge_(move)"
+}

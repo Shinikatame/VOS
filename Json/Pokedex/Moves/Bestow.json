@@ -1,0 +1,15 @@
+{
+    "name": "Bestow",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "User passes its held item to the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/bestow",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/bestow.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Bestow_(move)"
+}

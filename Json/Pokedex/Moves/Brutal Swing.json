@@ -1,0 +1,15 @@
+{
+    "name": "Brutal Swing",
+    "type": "Dark",
+    "category": "Physical",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "All Adjacent",
+    "shortDesc": "No additional effect. Hits adjacent Pok\u00e9mon.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/brutal-swing",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/brutalswing.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Brutal_Swing_(move)"
+}

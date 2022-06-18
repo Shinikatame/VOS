@@ -1,0 +1,15 @@
+{
+    "name": "Mat Block",
+    "type": "Fighting",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Ally's Side",
+    "shortDesc": "Protects allies from damaging attacks. Turn 1 only.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/mat-block",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/matblock.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Mat_Block_(move)"
+}

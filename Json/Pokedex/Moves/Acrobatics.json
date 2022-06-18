@@ -1,0 +1,15 @@
+{
+    "name": "Acrobatics",
+    "type": "Flying",
+    "category": "Physical",
+    "basePower": 55,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Any",
+    "shortDesc": "Power doubles if the user has no held item.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/acrobatics",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/acrobatics.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Acrobatics_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Charge",
+    "type": "Electric",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Self",
+    "shortDesc": "Boosts next Electric move and user's Sp. Def by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/charge",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/charge.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Charge_(move)"
+}

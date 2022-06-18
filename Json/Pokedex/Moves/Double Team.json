@@ -1,0 +1,15 @@
+{
+    "name": "Double Team",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Self",
+    "shortDesc": "Raises the user's evasiveness by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/double-team",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/doubleteam.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Double_Team_(move)"
+}

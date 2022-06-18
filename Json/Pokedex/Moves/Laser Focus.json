@@ -1,0 +1,15 @@
+{
+    "name": "Laser Focus",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 30,
+    "target": "Self",
+    "shortDesc": "Next turn, the user's attack will be a critical hit.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/laser-focus",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/laserfocus.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Laser_Focus_(move)"
+}

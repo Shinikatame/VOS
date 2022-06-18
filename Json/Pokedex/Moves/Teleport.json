@@ -1,0 +1,15 @@
+{
+    "name": "Teleport",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": -6,
+    "pp": 20,
+    "target": "Self",
+    "shortDesc": "User switches out.",
+    "isFieldMove": "The Pok\u00e9mon can teleport the player to the front of the last visited Pok\u00e9mon Center by using telekinesis. It can be taught to a Pok\u00e9mon by using TM30 in Generation I, and it can be learned by many Psychic-type Pok\u00e9mon.",
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/teleport",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/teleport.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Teleport_(move)"
+}

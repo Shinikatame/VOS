@@ -1,0 +1,15 @@
+{
+    "name": "Powder Snow",
+    "type": "Ice",
+    "category": "Special",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 25,
+    "target": "Adjacent Foes",
+    "shortDesc": "10% chance to freeze the foe(s).",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/powder-snow",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/powdersnow.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Powder_Snow_(move)"
+}

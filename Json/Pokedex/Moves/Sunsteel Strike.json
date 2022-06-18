@@ -1,0 +1,15 @@
+{
+    "name": "Sunsteel Strike",
+    "type": "Steel",
+    "category": "Physical",
+    "basePower": 100,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Ignores the Abilities of other Pok\u00e9mon.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sunsteel-strike",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/sunsteelstrike.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sunsteel_Strike_(move)"
+}

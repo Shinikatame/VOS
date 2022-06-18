@@ -1,0 +1,15 @@
+{
+    "name": "Wicked Blow",
+    "type": "Dark",
+    "category": "Physical",
+    "basePower": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Always results in a critical hit.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/wicked-blow",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/wickedblow.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Wicked_Blow_(move)"
+}

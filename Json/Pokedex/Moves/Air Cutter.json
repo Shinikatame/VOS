@@ -1,0 +1,15 @@
+{
+    "name": "Air Cutter",
+    "type": "Flying",
+    "category": "Special",
+    "basePower": 60,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 25,
+    "target": "Adjacent Foes",
+    "shortDesc": "High critical hit ratio. Hits adjacent foes.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/air-cutter",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/aircutter.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Air_Cutter_(move)"
+}

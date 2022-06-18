@@ -1,0 +1,15 @@
+{
+    "name": "Parabolic Charge",
+    "type": "Electric",
+    "category": "Special",
+    "basePower": 65,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "All Adjacent",
+    "shortDesc": "User recovers 50% of the damage dealt.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/parabolic-charge",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/paraboliccharge.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Parabolic_Charge_(move)"
+}

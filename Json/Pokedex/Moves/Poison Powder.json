@@ -1,0 +1,15 @@
+{
+    "name": "Poison Powder",
+    "type": "Poison",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 75,
+    "priority": 0,
+    "pp": 35,
+    "target": "Normal",
+    "shortDesc": "Poisons the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/poison-powder",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/poisonpowder.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Poison_Powder_(move)"
+}

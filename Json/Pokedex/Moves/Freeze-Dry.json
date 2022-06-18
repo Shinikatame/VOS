@@ -1,0 +1,15 @@
+{
+    "name": "Freeze-Dry",
+    "type": "Ice",
+    "category": "Special",
+    "basePower": 70,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "10% chance to freeze. Super effective on Water.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/freeze-dry",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/freezedry.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Freeze_dry_(move)"
+}

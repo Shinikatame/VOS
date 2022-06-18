@@ -1,0 +1,15 @@
+{
+    "name": "Bite",
+    "type": "Dark",
+    "category": "Physical",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 25,
+    "target": "Normal",
+    "shortDesc": "30% chance to make the target flinch.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/bite",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/bite.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Bite_(move)"
+}

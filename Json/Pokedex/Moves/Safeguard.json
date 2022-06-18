@@ -1,0 +1,15 @@
+{
+    "name": "Safeguard",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 25,
+    "target": "Ally's Side",
+    "shortDesc": "For 5 turns, protects user's party from status.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/safeguard",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/safeguard.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Safeguard_(move)"
+}

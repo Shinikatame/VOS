@@ -1,0 +1,15 @@
+{
+    "name": "Mountain Gale",
+    "type": "Ice",
+    "category": "Physical",
+    "basePower": 100,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "The user hurls giant chunks of ice at the target to inflict damage.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/mountain-gale",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/mountaingale.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Mountain_Gale_(move)"
+}

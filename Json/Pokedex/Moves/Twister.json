@@ -1,0 +1,15 @@
+{
+    "name": "Twister",
+    "type": "Dragon",
+    "category": "Special",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Adjacent Foes",
+    "shortDesc": "20% chance to make the foe(s) flinch.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/twister",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/twister.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Twister_(move)"
+}

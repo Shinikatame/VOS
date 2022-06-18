@@ -1,0 +1,15 @@
+{
+    "name": "Stun Spore",
+    "type": "Grass",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 75,
+    "priority": 0,
+    "pp": 30,
+    "target": "Normal",
+    "shortDesc": "Paralyzes the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/stun-spore",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/stunspore.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Stun_Spore_(move)"
+}

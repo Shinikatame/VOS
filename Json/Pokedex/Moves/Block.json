@@ -1,0 +1,15 @@
+{
+    "name": "Block",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Prevents the target from switching out.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/block",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/block.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Block_(move)"
+}

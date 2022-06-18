@@ -1,0 +1,15 @@
+{
+    "name": "Stomping Tantrum",
+    "type": "Ground",
+    "category": "Physical",
+    "basePower": 75,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Power doubles if the user's last move failed.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/stomping-tantrum",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/stompingtantrum.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Stomping_Tantrum_(move)"
+}

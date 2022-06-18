@@ -1,0 +1,15 @@
+{
+    "name": "Max Guard",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Self",
+    "shortDesc": "Protects user from moves & Max Moves this turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/max-guard",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/maxguard.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Max_Guard_(move)"
+}

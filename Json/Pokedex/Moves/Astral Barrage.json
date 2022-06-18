@@ -1,0 +1,15 @@
+{
+    "name": "Astral Barrage",
+    "type": "Ghost",
+    "category": "Special",
+    "basePower": 120,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Adjacent Foes",
+    "shortDesc": "No additional effect. Hits adjacent foes.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/astral-barrage",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/astralbarrage.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Astral_Barrage_(move)"
+}

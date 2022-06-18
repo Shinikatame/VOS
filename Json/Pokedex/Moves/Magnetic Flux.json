@@ -1,0 +1,15 @@
+{
+    "name": "Magnetic Flux",
+    "type": "Electric",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Ally's Side",
+    "shortDesc": "Raises Def, Sp. Def of allies with Plus/Minus by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/magnetic-flux",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/magneticflux.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Magnetic_Flux_(move)"
+}

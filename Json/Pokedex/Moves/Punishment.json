@@ -1,0 +1,15 @@
+{
+    "name": "Punishment",
+    "type": "Dark",
+    "category": "Physical",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "60 power +20 for each of the target's stat boosts.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/punishment",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/punishment.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Punishment_(move)"
+}

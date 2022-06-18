@@ -1,0 +1,15 @@
+{
+    "name": "Teatime",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Any",
+    "shortDesc": "All active Pok\u00e9mon consume held Berries.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/teatime",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/teatime.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Teatime_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Wing Attack",
+    "type": "Flying",
+    "category": "Physical",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 35,
+    "target": "Any",
+    "shortDesc": "No additional effect.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/wing-attack",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/wingattack.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Wing_Attack_(move)"
+}

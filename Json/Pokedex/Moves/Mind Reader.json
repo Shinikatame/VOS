@@ -1,0 +1,15 @@
+{
+    "name": "Mind Reader",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "User's next move will not miss the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/mind-reader",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/mindreader.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Mind_Reader_(move)"
+}

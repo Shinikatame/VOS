@@ -1,0 +1,15 @@
+{
+    "name": "Giga Drain",
+    "type": "Grass",
+    "category": "Special",
+    "basePower": 75,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "User recovers 50% of the damage dealt.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/giga-drain",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/gigadrain.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Giga_Drain_(move)"
+}

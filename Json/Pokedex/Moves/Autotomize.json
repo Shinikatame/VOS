@@ -1,0 +1,15 @@
+{
+    "name": "Autotomize",
+    "type": "Steel",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Self",
+    "shortDesc": "Raises the user's Speed by 2; user loses 100 kg.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/autotomize",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/autotomize.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Autotomize_(move)"
+}

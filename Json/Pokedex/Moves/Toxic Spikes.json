@@ -1,0 +1,15 @@
+{
+    "name": "Toxic Spikes",
+    "type": "Poison",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Foe's Side",
+    "shortDesc": "Poisons grounded foes on switch-in. Max 2 layers.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/toxic-spikes",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/toxicspikes.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Toxic_Spikes_(move)"
+}

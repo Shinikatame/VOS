@@ -1,0 +1,15 @@
+{
+    "name": "Calm Mind",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Self",
+    "shortDesc": "Raises the user's Sp. Atk and Sp. Def by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/calm-mind",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/calmmind.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Calm_Mind_(move)"
+}

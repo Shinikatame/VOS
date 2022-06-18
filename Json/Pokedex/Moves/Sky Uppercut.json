@@ -1,0 +1,15 @@
+{
+    "name": "Sky Uppercut",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 85,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Can hit Pok\u00e9mon using Bounce, Fly, or Sky Drop.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sky-uppercut",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/skyuppercut.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sky_Uppercut_(move)"
+}

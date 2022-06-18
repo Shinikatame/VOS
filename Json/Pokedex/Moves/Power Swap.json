@@ -1,0 +1,15 @@
+{
+    "name": "Power Swap",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Swaps Attack and Sp. Atk stat stages with target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/power-swap",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/powerswap.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Power_Swap_(move)"
+}

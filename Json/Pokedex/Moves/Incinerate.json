@@ -1,0 +1,15 @@
+{
+    "name": "Incinerate",
+    "type": "Fire",
+    "category": "Special",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Adjacent Foes",
+    "shortDesc": "Destroys the foe(s) Berry/Gem.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/incinerate",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/incinerate.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Incinerate_(move)"
+}

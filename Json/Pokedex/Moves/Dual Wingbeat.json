@@ -1,0 +1,15 @@
+{
+    "name": "Dual Wingbeat",
+    "type": "Flying",
+    "category": "Physical",
+    "basePower": 40,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Hits 2 times in one turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/dual-wingbeat",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/dualwingbeat.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Dual_Wingbeat_(move)"
+}

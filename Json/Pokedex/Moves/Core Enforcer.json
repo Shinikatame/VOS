@@ -1,0 +1,15 @@
+{
+    "name": "Core Enforcer",
+    "type": "Dragon",
+    "category": "Special",
+    "basePower": 100,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Adjacent Foes",
+    "shortDesc": "Nullifies the foe(s) Ability if the foe(s) move first.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/core-enforcer",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/coreenforcer.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Core_Enforcer_(move)"
+}

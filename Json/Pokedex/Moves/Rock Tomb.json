@@ -1,0 +1,15 @@
+{
+    "name": "Rock Tomb",
+    "type": "Rock",
+    "category": "Physical",
+    "basePower": 60,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "100% chance to lower the target's Speed by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/rock-tomb",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/rocktomb.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Rock_Tomb_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Pain Split",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Shares HP of user and target equally.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/pain-split",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/painsplit.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Pain_Split_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Thunder Fang",
+    "type": "Electric",
+    "category": "Physical",
+    "basePower": 65,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "10% chance to paralyze. 10% chance to flinch.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/thunder-fang",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/thunderfang.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Thunder_Fang_(move)"
+}

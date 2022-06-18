@@ -1,0 +1,15 @@
+{
+    "name": "Slash",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 70,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "High critical hit ratio.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/slash",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/slash.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Slash_(move)"
+}

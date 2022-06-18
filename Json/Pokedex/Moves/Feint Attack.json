@@ -1,0 +1,15 @@
+{
+    "name": "Feint Attack",
+    "type": "Dark",
+    "category": "Physical",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "This move does not check accuracy.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/feint-attack",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/feintattack.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Feint_Attack_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Entrainment",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "The target's Ability changes to match the user's.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/entrainment",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/entrainment.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Entrainment_(move)"
+}

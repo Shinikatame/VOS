@@ -1,0 +1,15 @@
+{
+    "name": "Uproar",
+    "type": "Normal",
+    "category": "Special",
+    "basePower": 90,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Random",
+    "shortDesc": "Lasts 3 turns. Active Pok\u00e9mon cannot fall asleep.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/uproar",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/uproar.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Uproar_(move)"
+}

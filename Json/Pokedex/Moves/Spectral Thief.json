@@ -1,0 +1,15 @@
+{
+    "name": "Spectral Thief",
+    "type": "Ghost",
+    "category": "Physical",
+    "basePower": 90,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Steals target's boosts before dealing damage.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/spectral-thief",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/spectralthief.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Spectral_Thief_(move)"
+}

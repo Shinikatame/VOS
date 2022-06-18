@@ -1,0 +1,15 @@
+{
+    "name": "Hidden Power Electric",
+    "type": "Electric",
+    "category": "Special",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Varies in type based on the user's IVs.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/hidden-power-electric",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/hiddenpowerelectric.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Hidden_Power_Electric_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Steel Beam",
+    "type": "Steel",
+    "category": "Special",
+    "basePower": 140,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 5,
+    "target": "All Adjacent",
+    "shortDesc": "User loses 50% max HP. Hits adjacent Pok\u00e9mon.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/steel-beam",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/steelbeam.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Steel_Beam_(move)"
+}

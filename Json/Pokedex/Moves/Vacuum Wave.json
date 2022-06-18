@@ -1,0 +1,15 @@
+{
+    "name": "Vacuum Wave",
+    "type": "Fighting",
+    "category": "Special",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 1,
+    "pp": 30,
+    "target": "Normal",
+    "shortDesc": "Usually goes first.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/vacuum-wave",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/vacuumwave.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Vacuum_Wave_(move)"
+}

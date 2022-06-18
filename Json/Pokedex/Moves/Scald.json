@@ -1,0 +1,15 @@
+{
+    "name": "Scald",
+    "type": "Water",
+    "category": "Special",
+    "basePower": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "30% chance to burn the target. Thaws target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/scald",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/scald.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Scald_(move)"
+}

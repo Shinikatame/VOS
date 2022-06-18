@@ -1,0 +1,15 @@
+{
+    "name": "Confusion",
+    "type": "Psychic",
+    "category": "Special",
+    "basePower": 50,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 25,
+    "target": "Normal",
+    "shortDesc": "10% chance to confuse the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/confusion",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/confusion.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Confusion_(move)"
+}

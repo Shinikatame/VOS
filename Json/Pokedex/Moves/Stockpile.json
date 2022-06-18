@@ -1,0 +1,15 @@
+{
+    "name": "Stockpile",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Self",
+    "shortDesc": "Raises user's Defense, Sp. Def by 1. Max 3 uses.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/stockpile",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/stockpile.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Stockpile_(move)"
+}

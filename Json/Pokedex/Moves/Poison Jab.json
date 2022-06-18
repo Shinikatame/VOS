@@ -1,0 +1,15 @@
+{
+    "name": "Poison Jab",
+    "type": "Poison",
+    "category": "Physical",
+    "basePower": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "30% chance to poison the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/poison-jab",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/poisonjab.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Poison_Jab_(move)"
+}

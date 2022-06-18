@@ -1,0 +1,15 @@
+{
+    "name": "Facade",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 70,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Power doubles if user is burn/poison/paralyzed.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/facade",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/facade.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Facade_(move)"
+}

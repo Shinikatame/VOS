@@ -1,0 +1,15 @@
+{
+    "name": "Shift Gear",
+    "type": "Steel",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "Raises the user's Speed by 2 and Attack by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/shift-gear",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/shiftgear.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Shift_Gear_(move)"
+}

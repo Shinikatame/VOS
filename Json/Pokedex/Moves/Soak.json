@@ -1,0 +1,15 @@
+{
+    "name": "Soak",
+    "type": "Water",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Changes the target's type to Water.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/soak",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/soak.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Soak_(move)"
+}

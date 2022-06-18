@@ -1,0 +1,15 @@
+{
+    "name": "Rock Throw",
+    "type": "Rock",
+    "category": "Physical",
+    "basePower": 50,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "No additional effect.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/rock-throw",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/rockthrow.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Rock_Throw_(move)"
+}

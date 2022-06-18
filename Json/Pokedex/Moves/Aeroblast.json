@@ -1,0 +1,15 @@
+{
+    "name": "Aeroblast",
+    "type": "Flying",
+    "category": "Special",
+    "basePower": 100,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 5,
+    "target": "Any",
+    "shortDesc": "High critical hit ratio.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/aeroblast",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/aeroblast.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Aeroblast_(move)"
+}

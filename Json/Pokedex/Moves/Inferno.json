@@ -1,0 +1,15 @@
+{
+    "name": "Inferno",
+    "type": "Fire",
+    "category": "Special",
+    "basePower": 100,
+    "accuracy": 50,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "100% chance to burn the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/inferno",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/inferno.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Inferno_(move)"
+}

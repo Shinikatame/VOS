@@ -1,0 +1,15 @@
+{
+    "name": "Sand Attack",
+    "type": "Ground",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Lowers the target's accuracy by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sand-attack",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/sandattack.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sand_Attack_(move)"
+}

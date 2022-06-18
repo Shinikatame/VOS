@@ -1,0 +1,15 @@
+{
+    "name": "Disarming Voice",
+    "type": "Fairy",
+    "category": "Special",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Adjacent Foes",
+    "shortDesc": "This move does not check accuracy. Hits foes.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/disarming-voice",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/disarmingvoice.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Disarming_Voice_(move)"
+}

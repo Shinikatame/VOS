@@ -1,0 +1,15 @@
+{
+    "name": "Substitute",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "User takes 1/4 its max HP to put in a Substitute.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/substitute",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/substitute.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Substitute_(move)"
+}

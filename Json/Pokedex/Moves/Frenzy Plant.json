@@ -1,0 +1,15 @@
+{
+    "name": "Frenzy Plant",
+    "type": "Grass",
+    "category": "Special",
+    "basePower": 150,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "User cannot move next turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/frenzy-plant",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/frenzyplant.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Frenzy_Plant_(move)"
+}

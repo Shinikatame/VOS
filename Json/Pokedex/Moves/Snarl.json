@@ -1,0 +1,15 @@
+{
+    "name": "Snarl",
+    "type": "Dark",
+    "category": "Special",
+    "basePower": 55,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 15,
+    "target": "Adjacent Foes",
+    "shortDesc": "100% chance to lower the foe(s) Sp. Atk by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/snarl",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/snarl.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Snarl_(move)"
+}

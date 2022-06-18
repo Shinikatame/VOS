@@ -1,0 +1,15 @@
+{
+    "name": "Snipe Shot",
+    "type": "Water",
+    "category": "Special",
+    "basePower": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "High critical hit ratio. Cannot be redirected.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/snipe-shot",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/snipeshot.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Snipe_Shot_(move)"
+}

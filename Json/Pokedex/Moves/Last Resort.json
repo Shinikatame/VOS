@@ -1,0 +1,15 @@
+{
+    "name": "Last Resort",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 140,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Fails unless each known move has been used.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/last-resort",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/lastresort.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Last_Resort_(move)"
+}

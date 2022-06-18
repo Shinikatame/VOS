@@ -1,0 +1,15 @@
+{
+    "name": "Celebrate",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 40,
+    "target": "Self",
+    "shortDesc": "No competitive use. Or any use.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/celebrate",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/celebrate.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Celebrate_(move)"
+}

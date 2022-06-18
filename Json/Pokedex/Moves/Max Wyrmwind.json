@@ -1,0 +1,15 @@
+{
+    "name": "Max Wyrmwind",
+    "type": "Dragon",
+    "category": "Physical",
+    "basePower": 10,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Adjacent Foes",
+    "shortDesc": "Base move affects power. Foes: -1 Attack.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/max-wyrmwind",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/maxwyrmwind.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Max_Wyrmwind_(move)"
+}

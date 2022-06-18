@@ -1,0 +1,15 @@
+{
+    "name": "Close Combat",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 120,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Lowers the user's Defense and Sp. Def by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/close-combat",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/closecombat.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Close_Combat_(move)"
+}

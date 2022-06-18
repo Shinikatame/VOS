@@ -1,0 +1,15 @@
+{
+    "name": "Revelation Dance",
+    "type": "Normal",
+    "category": "Special",
+    "basePower": 90,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Type varies based on the user's primary type.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/revelation-dance",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/revelationdance.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Revelation_Dance_(move)"
+}

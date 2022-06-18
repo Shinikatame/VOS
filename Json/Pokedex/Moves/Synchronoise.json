@@ -1,0 +1,15 @@
+{
+    "name": "Synchronoise",
+    "type": "Psychic",
+    "category": "Special",
+    "basePower": 120,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "All Adjacent",
+    "shortDesc": "Hits adjacent Pok\u00e9mon sharing the user's type.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/synchronoise",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/synchronoise.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Synchronoise_(move)"
+}

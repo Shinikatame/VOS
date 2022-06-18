@@ -1,0 +1,15 @@
+{
+    "name": "Round",
+    "type": "Normal",
+    "category": "Special",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Power doubles if others used Round this turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/round",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/round.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Round_(move)"
+}

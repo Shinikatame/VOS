@@ -1,0 +1,15 @@
+{
+    "name": "Hone Claws",
+    "type": "Dark",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Self",
+    "shortDesc": "Raises the user's Attack and accuracy by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/hone-claws",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/honeclaws.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Hone_Claws_(move)"
+}

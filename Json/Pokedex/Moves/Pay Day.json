@@ -1,0 +1,15 @@
+{
+    "name": "Pay Day",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Scatters coins.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/pay-day",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/payday.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Pay_Day_(move)"
+}

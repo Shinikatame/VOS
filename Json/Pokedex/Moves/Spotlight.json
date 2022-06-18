@@ -1,0 +1,15 @@
+{
+    "name": "Spotlight",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 3,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Target's foes' moves are redirected to it this turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/spotlight",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/spotlight.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Spotlight_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Counter",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": -5,
+    "pp": 20,
+    "target": "Foe that last hit user",
+    "shortDesc": "If hit by Normal/Fighting move, deals 2x damage.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/counter",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/counter.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Counter_(move)"
+}

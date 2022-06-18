@@ -1,0 +1,15 @@
+{
+    "name": "Skull Bash",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 130,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Raises user's Defense by 1 on turn 1. Hits turn 2.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/skull-bash",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/skullbash.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Skull_Bash_(move)"
+}

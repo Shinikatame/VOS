@@ -1,0 +1,15 @@
+{
+    "name": "Magic Coat",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 4,
+    "pp": 15,
+    "target": "Self",
+    "shortDesc": "Bounces back certain non-damaging moves.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/magic-coat",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/magiccoat.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Magic_Coat_(move)"
+}

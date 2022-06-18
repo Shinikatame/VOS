@@ -1,0 +1,15 @@
+{
+    "name": "Clanging Scales",
+    "type": "Dragon",
+    "category": "Special",
+    "basePower": 110,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Adjacent Foes",
+    "shortDesc": "Lowers the user's Defense by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/clanging-scales",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/clangingscales.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Clanging_Scales_(move)"
+}

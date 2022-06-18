@@ -1,0 +1,15 @@
+{
+    "name": "Bubble Beam",
+    "type": "Water",
+    "category": "Special",
+    "basePower": 65,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "10% chance to lower the target's Speed by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/bubble-beam",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/bubblebeam.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Bubble_Beam_(move)"
+}

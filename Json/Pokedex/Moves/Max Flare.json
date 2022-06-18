@@ -1,0 +1,15 @@
+{
+    "name": "Max Flare",
+    "type": "Fire",
+    "category": "Physical",
+    "basePower": 100,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Adjacent Foes",
+    "shortDesc": "Base move affects power. Starts Sunny Day.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/max-flare",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/maxflare.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Max_Flare_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Magic Powder",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Changes the target's type to Psychic.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/magic-powder",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/magicpowder.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Magic_Powder_(move)"
+}

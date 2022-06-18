@@ -1,0 +1,15 @@
+{
+    "name": "Freezy Frost",
+    "type": "Ice",
+    "category": "Special",
+    "basePower": 100,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Eliminates all stat changes.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/freezy-frost",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/freezyfrost.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Freezy_Frost_(move)"
+}

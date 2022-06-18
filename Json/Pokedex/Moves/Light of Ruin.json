@@ -1,0 +1,15 @@
+{
+    "name": "Light of Ruin",
+    "type": "Fairy",
+    "category": "Special",
+    "basePower": 140,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Has 1/2 recoil.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/light-of-ruin",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/lightofruin.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Light_Of_Ruin_(move)"
+}

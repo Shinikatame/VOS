@@ -1,0 +1,15 @@
+{
+    "name": "Max Airstream",
+    "type": "Flying",
+    "category": "Physical",
+    "basePower": 10,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Adjacent Foes",
+    "shortDesc": "Base move affects power. Allies: +1 Speed.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/max-airstream",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/maxairstream.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Max_Airstream_(move)"
+}

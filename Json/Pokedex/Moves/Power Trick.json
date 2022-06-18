@@ -1,0 +1,15 @@
+{
+    "name": "Power Trick",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "Switches user's Attack and Defense stats.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/power-trick",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/powertrick.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Power_Trick_(move)"
+}

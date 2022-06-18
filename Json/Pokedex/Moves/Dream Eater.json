@@ -1,0 +1,15 @@
+{
+    "name": "Dream Eater",
+    "type": "Psychic",
+    "category": "Special",
+    "basePower": 100,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "User gains 1/2 HP inflicted. Sleeping target only.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/dream-eater",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/dreameater.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Dream_Eater_(move)"
+}

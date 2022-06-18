@@ -1,0 +1,15 @@
+{
+    "name": "Bug Bite",
+    "type": "Bug",
+    "category": "Physical",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "User steals and eats the target's Berry.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/bug-bite",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/bugbite.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Bug_Bite_(move)"
+}

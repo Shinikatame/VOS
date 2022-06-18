@@ -1,0 +1,15 @@
+{
+    "name": "Fire Fang",
+    "type": "Fire",
+    "category": "Physical",
+    "basePower": 65,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "10% chance to burn. 10% chance to flinch.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/fire-fang",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/firefang.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Fire_Fang_(move)"
+}

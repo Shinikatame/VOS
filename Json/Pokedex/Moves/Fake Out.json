@@ -1,0 +1,15 @@
+{
+    "name": "Fake Out",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 3,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Hits first. First turn out only. 100% flinch chance.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/fake-out",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/fakeout.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Fake_Out_(move)"
+}

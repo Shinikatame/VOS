@@ -1,0 +1,15 @@
+{
+    "name": "Growth",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Self",
+    "shortDesc": "Raises user's Attack and Sp. Atk by 1; 2 in Sun.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/growth",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/growth.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Growth_(move)"
+}

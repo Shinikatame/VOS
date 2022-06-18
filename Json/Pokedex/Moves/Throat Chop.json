@@ -1,0 +1,15 @@
+{
+    "name": "Throat Chop",
+    "type": "Dark",
+    "category": "Physical",
+    "basePower": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "For 2 turns, the target cannot use sound moves.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/throat-chop",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/throatchop.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Throat_Chop_(move)"
+}

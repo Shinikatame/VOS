@@ -1,0 +1,15 @@
+{
+    "name": "Heart Swap",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Swaps all stat changes with target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/heart-swap",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/heartswap.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Heart_Swap_(move)"
+}

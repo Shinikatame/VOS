@@ -1,0 +1,15 @@
+{
+    "name": "Flame Wheel",
+    "type": "Fire",
+    "category": "Physical",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 25,
+    "target": "Normal",
+    "shortDesc": "10% chance to burn the target. Thaws user.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/flame-wheel",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/flamewheel.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Flame_Wheel_(move)"
+}

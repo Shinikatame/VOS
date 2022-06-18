@@ -1,0 +1,15 @@
+{
+    "name": "Ice Beam",
+    "type": "Ice",
+    "category": "Special",
+    "basePower": 90,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "10% chance to freeze the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/ice-beam",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/icebeam.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Ice_Beam_(move)"
+}

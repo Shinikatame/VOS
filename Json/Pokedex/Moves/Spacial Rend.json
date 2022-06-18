@@ -1,0 +1,15 @@
+{
+    "name": "Spacial Rend",
+    "type": "Dragon",
+    "category": "Special",
+    "basePower": 100,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "High critical hit ratio.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/spacial-rend",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/spacialrend.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Spacial_Rend_(move)"
+}

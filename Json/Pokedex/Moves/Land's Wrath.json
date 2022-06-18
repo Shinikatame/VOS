@@ -1,0 +1,15 @@
+{
+    "name": "Land's Wrath",
+    "type": "Ground",
+    "category": "Physical",
+    "basePower": 90,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Adjacent Foes",
+    "shortDesc": "No additional effect. Hits adjacent foes.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/land-s-wrath",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/landswrath.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Land_s_Wrath_(move)"
+}

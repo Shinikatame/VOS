@@ -1,0 +1,15 @@
+{
+    "name": "Low Kick",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "More power the heavier the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/low-kick",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/lowkick.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Low_Kick_(move)"
+}

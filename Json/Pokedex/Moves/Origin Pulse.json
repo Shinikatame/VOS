@@ -1,0 +1,15 @@
+{
+    "name": "Origin Pulse",
+    "type": "Water",
+    "category": "Special",
+    "basePower": 110,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 10,
+    "target": "Adjacent Foes",
+    "shortDesc": "No additional effect. Hits adjacent foes.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/origin-pulse",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/originpulse.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Origin_Pulse_(move)"
+}

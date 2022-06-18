@@ -1,0 +1,15 @@
+{
+    "name": "Max Starfall",
+    "type": "Fairy",
+    "category": "Physical",
+    "basePower": 10,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Adjacent Foes",
+    "shortDesc": "Base move affects power. Starts Misty Terrain.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/max-starfall",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/maxstarfall.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Max_Starfall_(move)"
+}

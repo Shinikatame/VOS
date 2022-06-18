@@ -1,0 +1,15 @@
+{
+    "name": "Encore",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "The target repeats its last move for 3 turns.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/encore",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/encore.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Encore_(move)"
+}

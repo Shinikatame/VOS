@@ -1,0 +1,15 @@
+{
+    "name": "Endeavor",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Lowers the target's HP to the user's HP.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/endeavor",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/endeavor.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Endeavor_(move)"
+}

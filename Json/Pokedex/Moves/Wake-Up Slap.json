@@ -1,0 +1,15 @@
+{
+    "name": "Wake-Up Slap",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 70,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Power doubles if target is asleep, and wakes it.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/wake-up-slap",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/wakeupslap.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Wake_up_Slap_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Accelerock",
+    "type": "Rock",
+    "category": "Physical",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 1,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Usually goes first.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/accelerock",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/accelerock.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Accelerock_(move)"
+}

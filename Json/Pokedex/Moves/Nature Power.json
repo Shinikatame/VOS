@@ -1,0 +1,15 @@
+{
+    "name": "Nature Power",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Attack depends on terrain (default Tri Attack).",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/nature-power",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/naturepower.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Nature_Power_(move)"
+}

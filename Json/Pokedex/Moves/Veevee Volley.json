@@ -1,0 +1,15 @@
+{
+    "name": "Veevee Volley",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": "(happiness * 10) / 25",
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Max happiness: 102 power. Can't miss.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/veevee-volley",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/veeveevolley.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Veevee_Volley_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Reversal",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "More power the less HP the user has left.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/reversal",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/reversal.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Reversal_(move)"
+}

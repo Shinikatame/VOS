@@ -1,0 +1,15 @@
+{
+    "name": "Payback",
+    "type": "Dark",
+    "category": "Physical",
+    "basePower": 50,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Power doubles if the user moves after the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/payback",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/payback.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Payback_(move)"
+}

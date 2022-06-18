@@ -1,0 +1,15 @@
+{
+    "name": "Bitter Malice",
+    "type": "Ghost",
+    "category": "Special",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Has a 30% chance to leave the target with frostbite.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/bitter-malice",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/bittermalice.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Bitter_Malice_(move)"
+}

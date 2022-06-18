@@ -1,0 +1,15 @@
+{
+    "name": "Icicle Crash",
+    "type": "Ice",
+    "category": "Physical",
+    "basePower": 85,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "30% chance to make the target flinch.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/icicle-crash",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/iciclecrash.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Icicle_Crash_(move)"
+}

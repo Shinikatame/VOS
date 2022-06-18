@@ -1,0 +1,15 @@
+{
+    "name": "Guillotine",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 0,
+    "accuracy": 30,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "OHKOs the target. Fails if user is a lower level.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/guillotine",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/guillotine.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Guillotine_(move)"
+}

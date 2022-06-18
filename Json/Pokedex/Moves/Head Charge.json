@@ -1,0 +1,15 @@
+{
+    "name": "Head Charge",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 120,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Has 1/4 recoil.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/head-charge",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/headcharge.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Head_Charge_(move)"
+}

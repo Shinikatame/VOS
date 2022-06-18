@@ -1,0 +1,15 @@
+{
+    "name": "Spore",
+    "type": "Grass",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Puts the target to sleep.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/spore",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/spore.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Spore_(move)"
+}

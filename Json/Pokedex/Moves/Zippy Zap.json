@@ -1,0 +1,15 @@
+{
+    "name": "Zippy Zap",
+    "type": "Electric",
+    "category": "Physical",
+    "basePower": 50,
+    "accuracy": 80,
+    "priority": 2,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Goes first. Raises user's evasion by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/zippy-zap",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/zippyzap.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Zippy_Zap_(move)"
+}

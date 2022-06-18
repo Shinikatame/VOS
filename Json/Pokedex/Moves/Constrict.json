@@ -1,0 +1,15 @@
+{
+    "name": "Constrict",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 10,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 35,
+    "target": "Normal",
+    "shortDesc": "10% chance to lower the target's Speed by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/constrict",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/constrict.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Constrict_(move)"
+}

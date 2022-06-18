@@ -1,0 +1,15 @@
+{
+    "name": "Flatter",
+    "type": "Dark",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Raises the target's Sp. Atk by 1 and confuses it.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/flatter",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/flatter.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Flatter_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Flash",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Lowers the target's accuracy by 1.",
+    "isFieldMove": "The Pok\u00e9mon is able to light up dark caverns. Flash is taught to Pok\u00e9mon with HM05 in the first three generations, and with TM70 since Generation IV.",
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/flash",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/flash.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Flash_(move)"
+}

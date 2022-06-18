@@ -1,0 +1,15 @@
+{
+    "name": "Waterfall",
+    "type": "Water",
+    "category": "Physical",
+    "basePower": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "20% chance to make the target flinch.",
+    "isFieldMove": "The player can climb up waterfalls on the Pok\u00e9mon's back. Waterfall can be taught to Pok\u00e9mon with HM07 in generations II, III and IV, and HM05 in generation 5 onwards. It was available in generation I as a level-up move, but did not have any out-of-battle effects.",
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/waterfall",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/waterfall.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Waterfall_(move)"
+}

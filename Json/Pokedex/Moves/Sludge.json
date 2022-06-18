@@ -1,0 +1,15 @@
+{
+    "name": "Sludge",
+    "type": "Poison",
+    "category": "Special",
+    "basePower": 65,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "30% chance to poison the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sludge",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/sludge.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sludge_(move)"
+}

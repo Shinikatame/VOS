@@ -1,0 +1,15 @@
+{
+    "name": "Comet Punch",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 18,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Hits 2-5 times in one turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/comet-punch",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/cometpunch.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Comet_Punch_(move)"
+}

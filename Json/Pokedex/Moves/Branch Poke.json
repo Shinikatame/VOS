@@ -1,0 +1,15 @@
+{
+    "name": "Branch Poke",
+    "type": "Grass",
+    "category": "Physical",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 40,
+    "target": "Normal",
+    "shortDesc": "No additional effect.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/branch-poke",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/branchpoke.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Branch_Poke_(move)"
+}

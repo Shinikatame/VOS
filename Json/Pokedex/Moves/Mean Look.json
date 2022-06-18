@@ -1,0 +1,15 @@
+{
+    "name": "Mean Look",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Adjacent Foes",
+    "shortDesc": "Prevents the target from switching out.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/mean-look",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/meanlook.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Mean_Look_(move)"
+}

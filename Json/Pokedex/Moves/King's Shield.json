@@ -1,0 +1,15 @@
+{
+    "name": "King's Shield",
+    "type": "Steel",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 4,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "Protects from damaging attacks. Contact: -1 Atk.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/king-s-shield",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/kingsshield.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/King_s_Shield_(move)"
+}

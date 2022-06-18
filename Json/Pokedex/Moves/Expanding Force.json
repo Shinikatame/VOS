@@ -1,0 +1,15 @@
+{
+    "name": "Expanding Force",
+    "type": "Psychic",
+    "category": "Special",
+    "basePower": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "User on Psychic Terrain: 1.5x power, hits foes.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/expanding-force",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/expandingforce.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Expanding_Force_(move)"
+}

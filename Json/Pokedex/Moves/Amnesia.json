@@ -1,0 +1,15 @@
+{
+    "name": "Amnesia",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Self",
+    "shortDesc": "Raises the user's Sp. Def by 2.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/amnesia",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/amnesia.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Amnesia_(move)"
+}

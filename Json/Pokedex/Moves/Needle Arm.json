@@ -1,0 +1,15 @@
+{
+    "name": "Needle Arm",
+    "type": "Grass",
+    "category": "Physical",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "30% chance to make the target flinch.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/needle-arm",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/needlearm.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Needle_Arm_(move)"
+}

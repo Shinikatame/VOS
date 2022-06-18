@@ -1,0 +1,15 @@
+{
+    "name": "Thunderbolt",
+    "type": "Electric",
+    "category": "Special",
+    "basePower": 90,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "10% chance to paralyze the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/thunderbolt",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/thunderbolt.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Thunderbolt_(move)"
+}

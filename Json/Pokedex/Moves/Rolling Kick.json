@@ -1,0 +1,15 @@
+{
+    "name": "Rolling Kick",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 60,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "30% chance to make the target flinch.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/rolling-kick",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/rollingkick.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Rolling_Kick_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Chip Away",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 70,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Ignores the target's stat stage changes.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/chip-away",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/chipaway.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Chip_Away_(move)"
+}

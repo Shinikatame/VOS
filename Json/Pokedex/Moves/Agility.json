@@ -1,0 +1,15 @@
+{
+    "name": "Agility",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 30,
+    "target": "Self",
+    "shortDesc": "Raises the user's Speed by 2.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/agility",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/agility.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Agility_(move)"
+}

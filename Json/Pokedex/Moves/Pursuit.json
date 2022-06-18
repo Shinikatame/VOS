@@ -1,0 +1,15 @@
+{
+    "name": "Pursuit",
+    "type": "Dark",
+    "category": "Physical",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "If a foe is switching out, hits it at 2x power.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/pursuit",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/pursuit.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Pursuit_(move)"
+}

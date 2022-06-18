@@ -1,0 +1,15 @@
+{
+    "name": "Curse",
+    "type": "Ghost",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Random",
+    "shortDesc": "Curses if Ghost, else +1 Atk, +1 Def, -1 Spe.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/curse",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/curse.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Curse_(move)"
+}

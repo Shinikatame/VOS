@@ -1,0 +1,15 @@
+{
+    "name": "Thunder Cage",
+    "type": "Electric",
+    "category": "Special",
+    "basePower": 80,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Traps and damages the target for 4-5 turns.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/thunder-cage",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/thundercage.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Thunder_Cage_(move)"
+}

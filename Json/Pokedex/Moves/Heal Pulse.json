@@ -1,0 +1,15 @@
+{
+    "name": "Heal Pulse",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Any",
+    "shortDesc": "Heals the target by 50% of its max HP.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/heal-pulse",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/healpulse.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Heal_Pulse_(move)"
+}

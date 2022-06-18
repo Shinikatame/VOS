@@ -1,0 +1,15 @@
+{
+    "name": "Supersonic",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 55,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Confuses the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/supersonic",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/supersonic.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Supersonic_(move)"
+}

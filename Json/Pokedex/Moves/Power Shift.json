@@ -1,0 +1,15 @@
+{
+    "name": "Power Shift",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "The user swaps its offensive and defensive stats.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/power-shift",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/powershift.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Power_Shift_(move)"
+}

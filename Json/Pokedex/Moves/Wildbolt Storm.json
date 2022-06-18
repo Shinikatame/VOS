@@ -1,0 +1,15 @@
+{
+    "name": "Wildbolt Storm",
+    "type": "Electric",
+    "category": "Special",
+    "basePower": 95,
+    "accuracy": 80,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Has a 30% chance to paralyze the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/wildbolt-storm",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/wildboltstorm.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Wildbolt_Storm_(move)"
+}

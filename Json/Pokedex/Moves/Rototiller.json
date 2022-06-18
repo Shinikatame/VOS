@@ -1,0 +1,15 @@
+{
+    "name": "Rototiller",
+    "type": "Ground",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "All",
+    "shortDesc": "Raises Atk, Sp. Atk of grounded Grass types by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/rototiller",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/rototiller.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Rototiller_(move)"
+}

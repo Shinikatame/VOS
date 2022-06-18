@@ -1,0 +1,15 @@
+{
+    "name": "Silver Wind",
+    "type": "Bug",
+    "category": "Special",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "10% chance to raise all stats by 1 (not acc/eva).",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/silver-wind",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/silverwind.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Silver_Wind_(move)"
+}

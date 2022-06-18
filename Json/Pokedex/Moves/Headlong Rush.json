@@ -1,0 +1,15 @@
+{
+    "name": "Headlong Rush",
+    "type": "Ground",
+    "category": "Physical",
+    "basePower": 100,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Lowers the user's defensive stats",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/headlong-rush",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/headlongrush.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Headlong_Rush_(move)"
+}

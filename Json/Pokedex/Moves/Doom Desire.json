@@ -1,0 +1,15 @@
+{
+    "name": "Doom Desire",
+    "type": "Steel",
+    "category": "Special",
+    "basePower": 140,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Hits two turns after being used.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/doom-desire",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/doomdesire.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Doom_Desire_(move)"
+}

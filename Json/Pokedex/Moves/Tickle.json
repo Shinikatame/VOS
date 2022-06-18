@@ -1,0 +1,15 @@
+{
+    "name": "Tickle",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Lowers the target's Attack and Defense by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/tickle",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/tickle.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Tickle_(move)"
+}

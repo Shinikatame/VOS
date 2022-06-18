@@ -1,0 +1,15 @@
+{
+    "name": "Absorb",
+    "type": "Grass",
+    "category": "Special",
+    "basePower": 20,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 25,
+    "target": "Normal",
+    "shortDesc": "User recovers 50% of the damage dealt.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/absorb",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/absorb.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Absorb_(move)"
+}

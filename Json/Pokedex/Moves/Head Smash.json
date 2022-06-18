@@ -1,0 +1,15 @@
+{
+    "name": "Head Smash",
+    "type": "Rock",
+    "category": "Physical",
+    "basePower": 150,
+    "accuracy": 80,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Has 1/2 recoil.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/head-smash",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/headsmash.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Head_Smash_(move)"
+}

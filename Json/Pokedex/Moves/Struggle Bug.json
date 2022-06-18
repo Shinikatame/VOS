@@ -1,0 +1,15 @@
+{
+    "name": "Struggle Bug",
+    "type": "Bug",
+    "category": "Special",
+    "basePower": 50,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Adjacent Foes",
+    "shortDesc": "100% chance to lower the foe(s) Sp. Atk by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/struggle-bug",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/strugglebug.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Struggle_Bug_(move)"
+}

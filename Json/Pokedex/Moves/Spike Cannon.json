@@ -1,0 +1,15 @@
+{
+    "name": "Spike Cannon",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 20,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Hits 2-5 times in one turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/spike-cannon",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/spikecannon.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Spike_Cannon_(move)"
+}

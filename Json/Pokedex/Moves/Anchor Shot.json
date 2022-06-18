@@ -1,0 +1,15 @@
+{
+    "name": "Anchor Shot",
+    "type": "Steel",
+    "category": "Physical",
+    "basePower": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Prevents the target from switching out.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/anchor-shot",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/anchorshot.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Anchor_Shot_(move)"
+}

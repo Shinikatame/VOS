@@ -1,0 +1,15 @@
+{
+    "name": "Fury Cutter",
+    "type": "Bug",
+    "category": "Physical",
+    "basePower": 40,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Power doubles with each hit, up to 160.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/fury-cutter",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/furycutter.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Fury_Cutter_(move)"
+}

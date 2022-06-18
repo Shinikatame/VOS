@@ -1,0 +1,15 @@
+{
+    "name": "Scale Shot",
+    "type": "Dragon",
+    "category": "Physical",
+    "basePower": 25,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Hits 2-5 times. User: -1 Def, +1 Spe after last hit.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/scale-shot",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/scaleshot.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Scale_Shot_(move)"
+}

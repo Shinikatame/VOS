@@ -1,0 +1,15 @@
+{
+    "name": "Happy Hour",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 30,
+    "target": "Ally's Side",
+    "shortDesc": "No competitive use.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/happy-hour",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/happyhour.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Happy_Hour_(move)"
+}

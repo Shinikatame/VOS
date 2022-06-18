@@ -1,0 +1,15 @@
+{
+    "name": "Rock Smash",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "50% chance to lower the target's Defense by 1.",
+    "isFieldMove": "The Pok\u00e9mon can smash small boulders. Rock smash can be taught to a Pok\u00e9mon by using TM08 in Generation II, by using HM06 in Generations III and IV, TM94 in Generation V and Pok\u00e9mon X and Y, and HM06 in Omega Ruby and Alpha Sapphire.",
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/rock-smash",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/rocksmash.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Rock_Smash_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Thrash",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 120,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Random",
+    "shortDesc": "Lasts 2-3 turns. Confuses the user afterwards.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/thrash",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/thrash.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Thrash_(move)"
+}

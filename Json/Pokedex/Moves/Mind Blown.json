@@ -1,0 +1,15 @@
+{
+    "name": "Mind Blown",
+    "type": "Fire",
+    "category": "Special",
+    "basePower": 150,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "All Adjacent",
+    "shortDesc": "User loses 50% max HP. Hits adjacent Pok\u00e9mon.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/mind-blown",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/mindblown.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Mind_Blown_(move)"
+}

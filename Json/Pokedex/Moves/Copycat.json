@@ -1,0 +1,15 @@
+{
+    "name": "Copycat",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Self",
+    "shortDesc": "Uses the last move used in the battle.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/copycat",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/copycat.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Copycat_(move)"
+}

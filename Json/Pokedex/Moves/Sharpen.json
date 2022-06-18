@@ -1,0 +1,15 @@
+{
+    "name": "Sharpen",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 30,
+    "target": "Self",
+    "shortDesc": "Raises the user's Attack by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sharpen",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/sharpen.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sharpen_(move)"
+}

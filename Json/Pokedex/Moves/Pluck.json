@@ -1,0 +1,15 @@
+{
+    "name": "Pluck",
+    "type": "Flying",
+    "category": "Physical",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Any",
+    "shortDesc": "User steals and eats the target's Berry.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/pluck",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/pluck.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Pluck_(move)"
+}

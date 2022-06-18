@@ -1,0 +1,15 @@
+{
+    "name": "Poison Sting",
+    "type": "Poison",
+    "category": "Physical",
+    "basePower": 15,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 35,
+    "target": "Normal",
+    "shortDesc": "30% chance to poison the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/poison-sting",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/poisonsting.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Poison_Sting_(move)"
+}

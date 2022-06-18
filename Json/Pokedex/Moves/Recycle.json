@@ -1,0 +1,15 @@
+{
+    "name": "Recycle",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "Restores the item the user last used.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/recycle",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/recycle.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Recycle_(move)"
+}

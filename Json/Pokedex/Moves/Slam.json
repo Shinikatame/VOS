@@ -1,0 +1,15 @@
+{
+    "name": "Slam",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 80,
+    "accuracy": 75,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "No additional effect.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/slam",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/slam.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Slam_(move)"
+}

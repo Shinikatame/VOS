@@ -1,0 +1,15 @@
+{
+    "name": "Defog",
+    "type": "Flying",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "-1 evasion; clears terrain and hazards on both sides.",
+    "isFieldMove": "The Pok\u00e9mon can clear out fog on the field. Defog can be taught to a Pok\u00e9mon by using HM05 in Diamond, Pearl, and Platinum. Since Generation V, it has lost its HM status.",
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/defog",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/defog.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Defog_(move)"
+}

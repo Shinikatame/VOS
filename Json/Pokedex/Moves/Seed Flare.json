@@ -1,0 +1,15 @@
+{
+    "name": "Seed Flare",
+    "type": "Grass",
+    "category": "Special",
+    "basePower": 120,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "40% chance to lower the target's Sp. Def by 2.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/seed-flare",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/seedflare.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Seed_Flare_(move)"
+}

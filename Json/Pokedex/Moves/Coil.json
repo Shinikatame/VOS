@@ -1,0 +1,15 @@
+{
+    "name": "Coil",
+    "type": "Poison",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Self",
+    "shortDesc": "Raises user's Attack, Defense, and accuracy by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/coil",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/coil.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Coil_(move)"
+}

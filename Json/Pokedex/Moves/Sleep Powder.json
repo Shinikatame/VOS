@@ -1,0 +1,15 @@
+{
+    "name": "Sleep Powder",
+    "type": "Grass",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 75,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Puts the target to sleep.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sleep-powder",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/sleeppowder.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sleep_Powder_(move)"
+}

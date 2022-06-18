@@ -1,0 +1,15 @@
+{
+    "name": "Dark Void",
+    "type": "Dark",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 50,
+    "priority": 0,
+    "pp": 10,
+    "target": "Adjacent Foes",
+    "shortDesc": "Darkrai: Puts the foe(s) to sleep.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/dark-void",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/darkvoid.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Dark_Void_(move)"
+}

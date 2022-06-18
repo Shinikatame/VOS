@@ -1,0 +1,15 @@
+{
+    "name": "Meteor Mash",
+    "type": "Steel",
+    "category": "Physical",
+    "basePower": 90,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "20% chance to raise the user's Attack by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/meteor-mash",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/meteormash.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Meteor_Mash_(move)"
+}

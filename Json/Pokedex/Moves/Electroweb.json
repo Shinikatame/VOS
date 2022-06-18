@@ -1,0 +1,15 @@
+{
+    "name": "Electroweb",
+    "type": "Electric",
+    "category": "Special",
+    "basePower": 55,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 15,
+    "target": "Adjacent Foes",
+    "shortDesc": "100% chance to lower the foe(s) Speed by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/electroweb",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/electroweb.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Electroweb_(move)"
+}

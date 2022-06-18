@@ -1,0 +1,15 @@
+{
+    "name": "Charge Beam",
+    "type": "Electric",
+    "category": "Special",
+    "basePower": 50,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "70% chance to raise the user's Sp. Atk by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/charge-beam",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/chargebeam.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Charge_Beam_(move)"
+}

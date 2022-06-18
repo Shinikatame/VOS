@@ -1,0 +1,15 @@
+{
+    "name": "Drain Punch",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 75,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "User recovers 50% of the damage dealt.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/drain-punch",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/drainpunch.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Drain_Punch_(move)"
+}

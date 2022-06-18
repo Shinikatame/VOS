@@ -1,0 +1,15 @@
+{
+    "name": "Disable",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "For 4 turns, disables the target's last move used.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/disable",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/disable.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Disable_(move)"
+}

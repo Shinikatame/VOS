@@ -1,0 +1,15 @@
+{
+    "name": "Vise Grip",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 55,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 30,
+    "target": "Normal",
+    "shortDesc": "No additional effect.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/vise-grip",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/visegrip.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Vise_Grip_(move)"
+}

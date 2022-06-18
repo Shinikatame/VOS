@@ -1,0 +1,15 @@
+{
+    "name": "Zap Cannon",
+    "type": "Electric",
+    "category": "Special",
+    "basePower": 120,
+    "accuracy": 50,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "100% chance to paralyze the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/zap-cannon",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/zapcannon.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Zap_Cannon_(move)"
+}

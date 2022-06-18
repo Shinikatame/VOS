@@ -1,0 +1,15 @@
+{
+    "name": "Cosmic Power",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Self",
+    "shortDesc": "Raises the user's Defense and Sp. Def by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/cosmic-power",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/cosmicpower.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Cosmic_Power_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Shadow Force",
+    "type": "Ghost",
+    "category": "Physical",
+    "basePower": 120,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Disappears turn 1. Hits turn 2. Breaks protection.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/shadow-force",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/shadowforce.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Force_(move)"
+}

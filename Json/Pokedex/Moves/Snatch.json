@@ -1,0 +1,15 @@
+{
+    "name": "Snatch",
+    "type": "Dark",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 4,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "User steals certain support moves to use itself.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/snatch",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/snatch.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Snatch_(move)"
+}

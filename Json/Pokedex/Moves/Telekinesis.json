@@ -1,0 +1,15 @@
+{
+    "name": "Telekinesis",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "For 3 turns, target floats but moves can't miss it.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/telekinesis",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/telekinesis.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Telekinesis_(move)"
+}

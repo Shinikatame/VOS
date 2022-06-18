@@ -1,0 +1,15 @@
+{
+    "name": "Eerie Spell",
+    "type": "Psychic",
+    "category": "Special",
+    "basePower": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Removes 3 PP from the target's last move.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/eerie-spell",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/eeriespell.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Eerie_Spell_(move)"
+}

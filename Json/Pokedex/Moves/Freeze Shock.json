@@ -1,0 +1,15 @@
+{
+    "name": "Freeze Shock",
+    "type": "Ice",
+    "category": "Physical",
+    "basePower": 140,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Charges turn 1. Hits turn 2. 30% paralyze.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/freeze-shock",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/freezeshock.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Freeze_Shock_(move)"
+}

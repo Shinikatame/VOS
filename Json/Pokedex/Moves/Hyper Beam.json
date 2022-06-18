@@ -1,0 +1,15 @@
+{
+    "name": "Hyper Beam",
+    "type": "Normal",
+    "category": "Special",
+    "basePower": 150,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "User cannot move next turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/hyper-beam",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/hyperbeam.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Hyper_Beam_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Kinesis",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 80,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Lowers the target's accuracy by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/kinesis",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/kinesis.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Kinesis_(move)"
+}

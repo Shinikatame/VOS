@@ -1,0 +1,15 @@
+{
+    "name": "Obstruct",
+    "type": "Dark",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 4,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "Protects from damaging attacks. Contact: -2 Def.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/obstruct",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/obstruct.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Obstruct_(move)"
+}

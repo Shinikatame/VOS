@@ -1,0 +1,15 @@
+{
+    "name": "Hyperspace Hole",
+    "type": "Psychic",
+    "category": "Special",
+    "basePower": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Breaks the target's protection for this turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/hyperspace-hole",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/hyperspacehole.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Hyperspace_Hole_(move)"
+}

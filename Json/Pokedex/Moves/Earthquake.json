@@ -1,0 +1,15 @@
+{
+    "name": "Earthquake",
+    "type": "Ground",
+    "category": "Physical",
+    "basePower": 100,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "All Adjacent",
+    "shortDesc": "Hits adjacent Pok\u00e9mon. Power doubles on Dig.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/earthquake",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/earthquake.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Earthquake_(move)"
+}

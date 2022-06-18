@@ -1,0 +1,15 @@
+{
+    "name": "Splishy Splash",
+    "type": "Water",
+    "category": "Special",
+    "basePower": 90,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Adjacent Foes",
+    "shortDesc": "30% chance to paralyze the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/splishy-splash",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/splishysplash.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Splishy_Splash_(move)"
+}

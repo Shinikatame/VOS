@@ -1,0 +1,15 @@
+{
+    "name": "Sacred Sword",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 90,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Ignores the target's stat stage changes.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sacred-sword",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/sacredsword.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sacred_Sword_(move)"
+}

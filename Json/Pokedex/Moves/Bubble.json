@@ -1,0 +1,15 @@
+{
+    "name": "Bubble",
+    "type": "Water",
+    "category": "Special",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 30,
+    "target": "Adjacent Foes",
+    "shortDesc": "10% chance to lower the foe(s) Speed by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/bubble",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/bubble.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Bubble_(move)"
+}

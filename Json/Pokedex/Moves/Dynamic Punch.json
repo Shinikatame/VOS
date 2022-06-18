@@ -1,0 +1,15 @@
+{
+    "name": "Dynamic Punch",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 100,
+    "accuracy": 50,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "100% chance to confuse the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/dynamic-punch",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/dynamicpunch.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Dynamic_Punch_(move)"
+}

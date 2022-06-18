@@ -1,0 +1,15 @@
+{
+    "name": "Fire Spin",
+    "type": "Fire",
+    "category": "Special",
+    "basePower": 35,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Traps and damages the target for 4-5 turns.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/fire-spin",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/firespin.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Fire_Spin_(move)"
+}

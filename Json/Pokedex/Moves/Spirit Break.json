@@ -1,0 +1,15 @@
+{
+    "name": "Spirit Break",
+    "type": "Fairy",
+    "category": "Physical",
+    "basePower": 75,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "100% chance to lower the target's Sp. Atk by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/spirit-break",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/spiritbreak.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Spirit_Break_(move)"
+}

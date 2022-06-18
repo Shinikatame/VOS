@@ -1,0 +1,15 @@
+{
+    "name": "Stealth Rock",
+    "type": "Rock",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Foe's Side",
+    "shortDesc": "Hurts foes on switch-in. Factors Rock weakness.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/stealth-rock",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/stealthrock.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Stealth_Rock_(move)"
+}

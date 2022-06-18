@@ -1,0 +1,15 @@
+{
+    "name": "Rock Climb",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 90,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "20% chance to confuse the target.",
+    "isFieldMove": "The Pok\u00e9mon can climb up rocky walls. Rock climb can be taught to a Pok\u00e9mon by using HM08 in Generation IV. Since Generation V, it has lost its HM status.",
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/rock-climb",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/rockclimb.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Rock_Climb_(move)"
+}

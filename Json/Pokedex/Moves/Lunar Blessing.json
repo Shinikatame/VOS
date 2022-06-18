@@ -1,0 +1,15 @@
+{
+    "name": "Lunar Blessing",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "Heals own status condition and increases evasiveness",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/lunar-blessing",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/lunarblessing.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Lunar_Blessing_(move)"
+}

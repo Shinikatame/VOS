@@ -1,0 +1,15 @@
+{
+    "name": "V-create",
+    "type": "Fire",
+    "category": "Physical",
+    "basePower": 180,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Lowers the user's Defense, Sp. Def, Speed by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/v-create",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/vcreate.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/V_create_(move)"
+}

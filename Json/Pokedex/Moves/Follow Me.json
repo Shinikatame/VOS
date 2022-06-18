@@ -1,0 +1,15 @@
+{
+    "name": "Follow Me",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 2,
+    "pp": 20,
+    "target": "Self",
+    "shortDesc": "The foes' moves target the user on the turn used.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/follow-me",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/followme.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Follow_Me_(move)"
+}

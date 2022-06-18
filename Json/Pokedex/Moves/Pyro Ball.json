@@ -1,0 +1,15 @@
+{
+    "name": "Pyro Ball",
+    "type": "Fire",
+    "category": "Physical",
+    "basePower": 120,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "10% chance to burn the target. Thaws user.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/pyro-ball",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/pyroball.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Pyro_Ball_(move)"
+}

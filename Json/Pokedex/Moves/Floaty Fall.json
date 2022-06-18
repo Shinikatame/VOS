@@ -1,0 +1,15 @@
+{
+    "name": "Floaty Fall",
+    "type": "Flying",
+    "category": "Physical",
+    "basePower": 90,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "30% chance to make the target flinch.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/floaty-fall",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/floatyfall.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Floaty_Fall_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Synthesis",
+    "type": "Grass",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Self",
+    "shortDesc": "Heals the user by a weather-dependent amount.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/synthesis",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/synthesis.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Synthesis_(move)"
+}

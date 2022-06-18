@@ -1,0 +1,15 @@
+{
+    "name": "Wide Guard",
+    "type": "Rock",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 3,
+    "pp": 10,
+    "target": "Ally's Side",
+    "shortDesc": "Protects allies from multi-target damage this turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/wide-guard",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/wideguard.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Wide_Guard_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Surf",
+    "type": "Water",
+    "category": "Special",
+    "basePower": 90,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "All Adjacent",
+    "shortDesc": "Hits adjacent Pok\u00e9mon. Power doubles on Dive.",
+    "isFieldMove": "The player can travel across water on the Pok\u00e9mon's back. Surf can be taught to Pok\u00e9mon with HMO3 in all generations.",
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/surf",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/surf.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Surf_(move)"
+}

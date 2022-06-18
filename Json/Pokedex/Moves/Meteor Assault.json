@@ -1,0 +1,15 @@
+{
+    "name": "Meteor Assault",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 150,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "User cannot move next turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/meteor-assault",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/meteorassault.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Meteor_Assault_(move)"
+}

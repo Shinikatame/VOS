@@ -1,0 +1,15 @@
+{
+    "name": "Muddy Water",
+    "type": "Water",
+    "category": "Special",
+    "basePower": 90,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 10,
+    "target": "Adjacent Foes",
+    "shortDesc": "30% chance to lower the foe(s) accuracy by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/muddy-water",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/muddywater.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Muddy_Water_(move)"
+}

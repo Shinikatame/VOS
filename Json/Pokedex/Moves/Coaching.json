@@ -1,0 +1,15 @@
+{
+    "name": "Coaching",
+    "type": "Fighting",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Adjacent Ally",
+    "shortDesc": "Raises an ally's Attack and Defense by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/coaching",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/coaching.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Coaching_(move)"
+}

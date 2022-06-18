@@ -1,0 +1,15 @@
+{
+    "name": "Water Sport",
+    "type": "Water",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "All",
+    "shortDesc": "For 5 turns, Fire-type attacks have 1/3 power.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/water-sport",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/watersport.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Water_Sport_(move)"
+}

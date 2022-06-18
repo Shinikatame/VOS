@@ -1,0 +1,15 @@
+{
+    "name": "Lava Plume",
+    "type": "Fire",
+    "category": "Special",
+    "basePower": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "All Adjacent",
+    "shortDesc": "30% chance to burn adjacent Pok\u00e9mon.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/lava-plume",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/lavaplume.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Lava_Plume_(move)"
+}

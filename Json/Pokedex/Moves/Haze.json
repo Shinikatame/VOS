@@ -1,0 +1,15 @@
+{
+    "name": "Haze",
+    "type": "Ice",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 30,
+    "target": "All",
+    "shortDesc": "Eliminates all stat changes.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/haze",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/haze.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Haze_(move)"
+}

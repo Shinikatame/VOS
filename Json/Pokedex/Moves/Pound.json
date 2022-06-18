@@ -1,0 +1,15 @@
+{
+    "name": "Pound",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 35,
+    "target": "Normal",
+    "shortDesc": "No additional effect.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/pound",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/pound.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Pound_(move)"
+}

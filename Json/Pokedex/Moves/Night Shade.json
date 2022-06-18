@@ -1,0 +1,15 @@
+{
+    "name": "Night Shade",
+    "type": "Ghost",
+    "category": "Special",
+    "basePower": "level",
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Does damage equal to the user's level.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/night-shade",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/nightshade.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Night_Shade_(move)"
+}

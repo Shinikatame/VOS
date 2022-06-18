@@ -1,0 +1,15 @@
+{
+    "name": "Misty Explosion",
+    "type": "Fairy",
+    "category": "Special",
+    "basePower": 100,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "All Adjacent",
+    "shortDesc": "User faints. User on Misty Terrain: 1.5x power.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/misty-explosion",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/mistyexplosion.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Misty_Explosion_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Spiky Shield",
+    "type": "Grass",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 4,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "Protects from moves. Contact: loses 1/8 max HP.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/spiky-shield",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/spikyshield.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Spiky_Shield_(move)"
+}

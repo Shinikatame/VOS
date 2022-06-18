@@ -1,0 +1,15 @@
+{
+    "name": "Magic Room",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "All",
+    "shortDesc": "For 5 turns, all held items have no effect.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/magic-room",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/magicroom.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Magic_Room_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Power-Up Punch",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "100% chance to raise the user's Attack by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/power-up-punch",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/poweruppunch.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Power_up_Punch_(move)"
+}

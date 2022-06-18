@@ -1,0 +1,15 @@
+{
+    "name": "Noble Roar",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 30,
+    "target": "Normal",
+    "shortDesc": "Lowers the target's Attack and Sp. Atk by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/noble-roar",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/nobleroar.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Noble_Roar_(move)"
+}

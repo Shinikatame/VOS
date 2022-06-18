@@ -1,0 +1,15 @@
+{
+    "name": "Sweet Scent",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Adjacent Foes",
+    "shortDesc": "Lowers the foe(s) evasiveness by 2.",
+    "isFieldMove": "The Pok\u00e9mon can activate a wild Pok\u00e9mon battle in tall grass, caves, and water. It can be taught to a Pok\u00e9mon by using TM12 in Generation II, and it can be learned by many Grass-type Pok\u00e9mon.",
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sweet-scent",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/sweetscent.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sweet_Scent_(move)"
+}

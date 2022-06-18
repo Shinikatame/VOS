@@ -1,0 +1,15 @@
+{
+    "name": "Techno Blast",
+    "type": "Normal",
+    "category": "Special",
+    "basePower": 120,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Type varies based on the held Drive.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/techno-blast",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/technoblast.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Techno_Blast_(move)"
+}

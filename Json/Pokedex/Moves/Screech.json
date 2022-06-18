@@ -1,0 +1,15 @@
+{
+    "name": "Screech",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 40,
+    "target": "Normal",
+    "shortDesc": "Lowers the target's Defense by 2.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/screech",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/screech.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Screech_(move)"
+}

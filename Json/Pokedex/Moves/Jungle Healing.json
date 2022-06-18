@@ -1,0 +1,15 @@
+{
+    "name": "Jungle Healing",
+    "type": "Grass",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Ally's Side",
+    "shortDesc": "User and allies: healed 1/4 max HP, status cured.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/jungle-healing",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/junglehealing.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Jungle_Healing_(move)"
+}

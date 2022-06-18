@@ -1,0 +1,15 @@
+{
+    "name": "Rage Powder",
+    "type": "Bug",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 2,
+    "pp": 20,
+    "target": "Self",
+    "shortDesc": "The foes' moves target the user on the turn used.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/rage-powder",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/ragepowder.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Rage_Powder_(move)"
+}

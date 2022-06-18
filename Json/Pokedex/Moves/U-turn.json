@@ -1,0 +1,15 @@
+{
+    "name": "U-turn",
+    "type": "Bug",
+    "category": "Physical",
+    "basePower": 70,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "User switches out after damaging the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/u-turn",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/uturn.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/U_turn_(move)"
+}

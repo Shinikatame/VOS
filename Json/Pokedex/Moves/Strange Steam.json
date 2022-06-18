@@ -1,0 +1,15 @@
+{
+    "name": "Strange Steam",
+    "type": "Fairy",
+    "category": "Special",
+    "basePower": 90,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "20% chance to confuse the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/strange-steam",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/strangesteam.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Strange_Steam_(move)"
+}

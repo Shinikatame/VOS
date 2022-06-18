@@ -1,0 +1,15 @@
+{
+    "name": "Electric Terrain",
+    "type": "Electric",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "All",
+    "shortDesc": "5 turns. Grounded: +Electric power, can't sleep.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/electric-terrain",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/electricterrain.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Electric_Terrain_(move)"
+}

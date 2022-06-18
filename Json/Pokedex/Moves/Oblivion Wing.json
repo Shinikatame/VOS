@@ -1,0 +1,15 @@
+{
+    "name": "Oblivion Wing",
+    "type": "Flying",
+    "category": "Special",
+    "basePower": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Any",
+    "shortDesc": "User recovers 75% of the damage dealt.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/oblivion-wing",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/oblivionwing.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Oblivion_Wing_(move)"
+}

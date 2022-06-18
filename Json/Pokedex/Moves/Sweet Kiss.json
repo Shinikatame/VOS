@@ -1,0 +1,15 @@
+{
+    "name": "Sweet Kiss",
+    "type": "Fairy",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 75,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Confuses the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sweet-kiss",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/sweetkiss.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sweet_Kiss_(move)"
+}

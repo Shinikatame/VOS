@@ -1,0 +1,15 @@
+{
+    "name": "Steel Wing",
+    "type": "Steel",
+    "category": "Physical",
+    "basePower": 70,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 25,
+    "target": "Normal",
+    "shortDesc": "10% chance to raise the user's Defense by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/steel-wing",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/steelwing.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Steel_Wing_(move)"
+}

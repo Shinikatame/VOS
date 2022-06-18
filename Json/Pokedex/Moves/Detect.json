@@ -1,0 +1,15 @@
+{
+    "name": "Detect",
+    "type": "Fighting",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 4,
+    "pp": 5,
+    "target": "Self",
+    "shortDesc": "Prevents moves from affecting the user this turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/detect",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/detect.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Detect_(move)"
+}

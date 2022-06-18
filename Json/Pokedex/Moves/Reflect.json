@@ -1,0 +1,15 @@
+{
+    "name": "Reflect",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Ally's Side",
+    "shortDesc": "For 5 turns, physical damage to allies is halved.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/reflect",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/reflect.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Reflect_(move)"
+}

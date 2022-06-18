@@ -1,0 +1,15 @@
+{
+    "name": "Poltergeist",
+    "type": "Ghost",
+    "category": "Physical",
+    "basePower": 110,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Fails if the target has no item.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/poltergeist",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/poltergeist.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Poltergeist_(move)"
+}

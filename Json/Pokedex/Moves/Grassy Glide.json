@@ -1,0 +1,15 @@
+{
+    "name": "Grassy Glide",
+    "type": "Grass",
+    "category": "Physical",
+    "basePower": 70,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "User on Grassy Terrain: +1 priority.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/grassy-glide",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/grassyglide.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Grassy_Glide_(move)"
+}

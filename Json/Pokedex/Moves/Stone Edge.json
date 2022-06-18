@@ -1,0 +1,15 @@
+{
+    "name": "Stone Edge",
+    "type": "Rock",
+    "category": "Physical",
+    "basePower": 100,
+    "accuracy": 80,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "High critical hit ratio.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/stone-edge",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/stoneedge.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Stone_Edge_(move)"
+}

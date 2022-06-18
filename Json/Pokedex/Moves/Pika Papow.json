@@ -1,0 +1,15 @@
+{
+    "name": "Pika Papow",
+    "type": "Electric",
+    "category": "Special",
+    "basePower": "(happiness * 10) / 25",
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Max happiness: 102 power. Can't miss.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/pika-papow",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/pikapapow.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Pika_Papow_(move)"
+}

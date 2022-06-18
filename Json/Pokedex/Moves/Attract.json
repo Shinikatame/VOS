@@ -1,0 +1,15 @@
+{
+    "name": "Attract",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "A target of the opposite gender gets infatuated.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/attract",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/attract.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Attract_(move)"
+}

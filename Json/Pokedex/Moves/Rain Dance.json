@@ -1,0 +1,15 @@
+{
+    "name": "Rain Dance",
+    "type": "Water",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "All",
+    "shortDesc": "For 5 turns, heavy rain powers Water moves.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/rain-dance",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/raindance.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Rain_Dance_(move)"
+}

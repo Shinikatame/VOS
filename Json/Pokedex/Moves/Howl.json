@@ -1,0 +1,15 @@
+{
+    "name": "Howl",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 40,
+    "target": "Ally's Side",
+    "shortDesc": "Raises the user's and ally's Attack by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/howl",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/howl.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Howl_(move)"
+}

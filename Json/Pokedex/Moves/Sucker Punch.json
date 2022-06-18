@@ -1,0 +1,15 @@
+{
+    "name": "Sucker Punch",
+    "type": "Dark",
+    "category": "Physical",
+    "basePower": 70,
+    "accuracy": 100,
+    "priority": 1,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Usually goes first. Fails if target is not attacking.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sucker-punch",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/suckerpunch.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sucker_Punch_(move)"
+}

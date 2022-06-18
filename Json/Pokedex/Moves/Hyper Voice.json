@@ -1,0 +1,15 @@
+{
+    "name": "Hyper Voice",
+    "type": "Normal",
+    "category": "Special",
+    "basePower": 90,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Adjacent Foes",
+    "shortDesc": "No additional effect. Hits adjacent foes.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/hyper-voice",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/hypervoice.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Hyper_Voice_(move)"
+}

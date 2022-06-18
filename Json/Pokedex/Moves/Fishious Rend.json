@@ -1,0 +1,15 @@
+{
+    "name": "Fishious Rend",
+    "type": "Water",
+    "category": "Physical",
+    "basePower": 85,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Power doubles if user moves before the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/fishious-rend",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/fishiousrend.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Fishious_Rend_(move)"
+}

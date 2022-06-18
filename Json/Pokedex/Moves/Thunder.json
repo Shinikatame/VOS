@@ -1,0 +1,15 @@
+{
+    "name": "Thunder",
+    "type": "Electric",
+    "category": "Special",
+    "basePower": 110,
+    "accuracy": 70,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "30% chance to paralyze target. Can't miss in rain.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/thunder",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/thunder.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Thunder_(move)"
+}

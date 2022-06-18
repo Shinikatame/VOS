@@ -1,0 +1,15 @@
+{
+    "name": "Conversion 2",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 30,
+    "target": "Normal",
+    "shortDesc": "Changes user's type to resist target's last move.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/conversion-2",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/conversion2.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Conversion_2_(move)"
+}

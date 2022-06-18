@@ -1,0 +1,15 @@
+{
+    "name": "Triple Kick",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 10,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Hits 3 times. Each hit can miss, but power rises.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/triple-kick",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/triplekick.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Triple_Kick_(move)"
+}

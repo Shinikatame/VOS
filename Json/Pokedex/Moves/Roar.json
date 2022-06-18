@@ -1,0 +1,15 @@
+{
+    "name": "Roar",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": -6,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Forces the target to switch to a random ally.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/roar",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/roar.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Roar_(move)"
+}

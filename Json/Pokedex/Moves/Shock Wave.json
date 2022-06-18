@@ -1,0 +1,15 @@
+{
+    "name": "Shock Wave",
+    "type": "Electric",
+    "category": "Special",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "This move does not check accuracy.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/shock-wave",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/shockwave.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Shock_Wave_(move)"
+}

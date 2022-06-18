@@ -1,0 +1,15 @@
+{
+    "name": "Sludge Wave",
+    "type": "Poison",
+    "category": "Special",
+    "basePower": 95,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "All Adjacent",
+    "shortDesc": "10% chance to poison adjacent Pok\u00e9mon.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sludge-wave",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/sludgewave.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sludge_Wave_(move)"
+}

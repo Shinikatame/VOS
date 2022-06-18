@@ -1,0 +1,15 @@
+{
+    "name": "Barrage",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 15,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Hits 2-5 times in one turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/barrage",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/barrage.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Barrage_(move)"
+}

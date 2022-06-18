@@ -1,0 +1,15 @@
+{
+    "name": "Tail Glow",
+    "type": "Bug",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Self",
+    "shortDesc": "Raises the user's Sp. Atk by 3.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/tail-glow",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/tailglow.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Tail_Glow_(move)"
+}

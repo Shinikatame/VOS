@@ -1,0 +1,15 @@
+{
+    "name": "Psycho Cut",
+    "type": "Psychic",
+    "category": "Physical",
+    "basePower": 70,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "High critical hit ratio.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/psycho-cut",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/psychocut.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Psycho_Cut_(move)"
+}

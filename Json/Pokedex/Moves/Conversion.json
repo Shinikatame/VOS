@@ -1,0 +1,15 @@
+{
+    "name": "Conversion",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 30,
+    "target": "Self",
+    "shortDesc": "Changes user's type to match its first move.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/conversion",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/conversion.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Conversion_(move)"
+}

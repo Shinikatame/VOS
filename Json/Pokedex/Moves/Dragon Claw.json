@@ -1,0 +1,15 @@
+{
+    "name": "Dragon Claw",
+    "type": "Dragon",
+    "category": "Physical",
+    "basePower": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "No additional effect.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/dragon-claw",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/dragonclaw.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Claw_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Burning Jealousy",
+    "type": "Fire",
+    "category": "Special",
+    "basePower": 70,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Adjacent Foes",
+    "shortDesc": "100% burns a target that had a stat rise this turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/burning-jealousy",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/burningjealousy.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Burning_Jealousy_(move)"
+}

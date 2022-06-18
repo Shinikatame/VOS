@@ -1,0 +1,15 @@
+{
+    "name": "Eternabeam",
+    "type": "Dragon",
+    "category": "Special",
+    "basePower": 160,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "User cannot move next turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/eternabeam",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/eternabeam.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Eternabeam_(move)"
+}

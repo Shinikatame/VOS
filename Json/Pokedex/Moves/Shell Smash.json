@@ -1,0 +1,15 @@
+{
+    "name": "Shell Smash",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Self",
+    "shortDesc": "Lowers Def, SpD by 1; raises Atk, SpA, Spe by 2.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/shell-smash",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/shellsmash.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Shell_Smash_(move)"
+}

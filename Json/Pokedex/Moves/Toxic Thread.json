@@ -1,0 +1,15 @@
+{
+    "name": "Toxic Thread",
+    "type": "Poison",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Lowers the target's Speed by 1 and poisons it.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/toxic-thread",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/toxicthread.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Toxic_Thread_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Strength",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "No additional effect.",
+    "isFieldMove": "The Pok\u00e9mon is able to push certain types of boulders around. Strength can be taught to Pok\u00e9mon with HM04 in all generations.",
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/strength",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/strength.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Strength_(move)"
+}

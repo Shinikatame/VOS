@@ -1,0 +1,15 @@
+{
+    "name": "Shadow Sneak",
+    "type": "Ghost",
+    "category": "Physical",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 1,
+    "pp": 30,
+    "target": "Normal",
+    "shortDesc": "Usually goes first.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/shadow-sneak",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/shadowsneak.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Sneak_(move)"
+}

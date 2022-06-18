@@ -1,0 +1,15 @@
+{
+    "name": "Yawn",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Puts the target to sleep after 1 turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/yawn",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/yawn.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Yawn_(move)"
+}

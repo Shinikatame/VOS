@@ -1,0 +1,15 @@
+{
+    "name": "Clamp",
+    "type": "Water",
+    "category": "Physical",
+    "basePower": 35,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Traps and damages the target for 4-5 turns.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/clamp",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/clamp.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Clamp_(move)"
+}

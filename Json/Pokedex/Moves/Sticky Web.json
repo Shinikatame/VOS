@@ -1,0 +1,15 @@
+{
+    "name": "Sticky Web",
+    "type": "Bug",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Foe's Side",
+    "shortDesc": "Lowers Speed of grounded foes by 1 on switch-in.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sticky-web",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/stickyweb.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sticky_Web_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Max Quake",
+    "type": "Ground",
+    "category": "Physical",
+    "basePower": 10,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Adjacent Foes",
+    "shortDesc": "Base move affects power. Allies: +1 Sp. Def.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/max-quake",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/maxquake.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Max_Quake_(move)"
+}

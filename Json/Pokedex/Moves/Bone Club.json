@@ -1,0 +1,15 @@
+{
+    "name": "Bone Club",
+    "type": "Ground",
+    "category": "Physical",
+    "basePower": 65,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "10% chance to make the target flinch.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/bone-club",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/boneclub.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Bone_Club_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Iron Tail",
+    "type": "Steel",
+    "category": "Physical",
+    "basePower": 100,
+    "accuracy": 75,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "30% chance to lower the target's Defense by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/iron-tail",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/irontail.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Iron_Tail_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Cotton Spore",
+    "type": "Grass",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 40,
+    "target": "Adjacent Foes",
+    "shortDesc": "Lowers the target's Speed by 2.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/cotton-spore",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/cottonspore.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Cotton_Spore_(move)"
+}

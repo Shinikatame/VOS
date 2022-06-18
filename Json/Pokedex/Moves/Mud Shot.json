@@ -1,0 +1,15 @@
+{
+    "name": "Mud Shot",
+    "type": "Ground",
+    "category": "Special",
+    "basePower": 55,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "100% chance to lower the target's Speed by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/mud-shot",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/mudshot.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Mud_Shot_(move)"
+}

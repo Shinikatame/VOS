@@ -1,0 +1,15 @@
+{
+    "name": "Blizzard",
+    "type": "Ice",
+    "category": "Special",
+    "basePower": 110,
+    "accuracy": 70,
+    "priority": 0,
+    "pp": 5,
+    "target": "Adjacent Foes",
+    "shortDesc": "10% chance to freeze foe(s). Can't miss in hail.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/blizzard",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/blizzard.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Blizzard_(move)"
+}

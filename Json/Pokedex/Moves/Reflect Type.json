@@ -1,0 +1,15 @@
+{
+    "name": "Reflect Type",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "User becomes the same type as the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/reflect-type",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/reflecttype.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Reflect_Type_(move)"
+}

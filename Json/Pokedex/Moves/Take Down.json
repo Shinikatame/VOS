@@ -1,0 +1,15 @@
+{
+    "name": "Take Down",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 90,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Has 1/4 recoil.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/take-down",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/takedown.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Take_Down_(move)"
+}

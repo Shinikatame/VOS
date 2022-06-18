@@ -1,0 +1,15 @@
+{
+    "name": "Horn Attack",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 65,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 25,
+    "target": "Normal",
+    "shortDesc": "No additional effect.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/horn-attack",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/hornattack.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Horn_Attack_(move)"
+}

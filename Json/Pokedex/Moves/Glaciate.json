@@ -1,0 +1,15 @@
+{
+    "name": "Glaciate",
+    "type": "Ice",
+    "category": "Special",
+    "basePower": 65,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 10,
+    "target": "Adjacent Foes",
+    "shortDesc": "100% chance to lower the foe(s) Speed by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/glaciate",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/glaciate.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Glaciate_(move)"
+}

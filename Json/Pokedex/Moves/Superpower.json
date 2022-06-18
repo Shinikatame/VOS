@@ -1,0 +1,15 @@
+{
+    "name": "Superpower",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 120,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Lowers the user's Attack and Defense by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/superpower",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/superpower.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Superpower_(move)"
+}

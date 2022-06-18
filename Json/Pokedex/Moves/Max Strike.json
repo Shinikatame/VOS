@@ -1,0 +1,15 @@
+{
+    "name": "Max Strike",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 10,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Adjacent Foes",
+    "shortDesc": "Base move affects power. Foes: -1 Speed.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/max-strike",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/maxstrike.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Max_Strike_(move)"
+}

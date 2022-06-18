@@ -1,0 +1,15 @@
+{
+    "name": "Corrosive Gas",
+    "type": "Poison",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 40,
+    "target": "All Adjacent",
+    "shortDesc": "Removes adjacent Pok\u00e9mon's held items.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/corrosive-gas",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/corrosivegas.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Corrosive_Gas_(move)"
+}

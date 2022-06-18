@@ -1,0 +1,15 @@
+{
+    "name": "Flip Turn",
+    "type": "Water",
+    "category": "Physical",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "User switches out after damaging the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/flip-turn",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/flipturn.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Flip_Turn_(move)"
+}

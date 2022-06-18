@@ -1,0 +1,15 @@
+{
+    "name": "Sandsear Storm",
+    "type": "Ground",
+    "category": "Special",
+    "basePower": 95,
+    "accuracy": 80,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Has a 30% chance of burning the target",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sandsear-storm",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/sandsearstorm.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sandsear_Storm_(move)"
+}

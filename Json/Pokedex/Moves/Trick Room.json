@@ -1,0 +1,15 @@
+{
+    "name": "Trick Room",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": -7,
+    "pp": 5,
+    "target": "All",
+    "shortDesc": "Goes last. For 5 turns, turn order is reversed.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/trick-room",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/trickroom.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Trick_Room_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Cotton Guard",
+    "type": "Grass",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "Raises the user's Defense by 3.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/cotton-guard",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/cottonguard.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Cotton_Guard_(move)"
+}

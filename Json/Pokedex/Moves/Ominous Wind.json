@@ -1,0 +1,15 @@
+{
+    "name": "Ominous Wind",
+    "type": "Ghost",
+    "category": "Special",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "10% chance to raise all stats by 1 (not acc/eva).",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/ominous-wind",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/ominouswind.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Ominous_Wind_(move)"
+}

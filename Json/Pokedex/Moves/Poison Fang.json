@@ -1,0 +1,15 @@
+{
+    "name": "Poison Fang",
+    "type": "Poison",
+    "category": "Physical",
+    "basePower": 50,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "50% chance to badly poison the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/poison-fang",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/poisonfang.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Poison_Fang_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Wring Out",
+    "type": "Normal",
+    "category": "Special",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "More power the more HP the target has left.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/wring-out",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/wringout.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Wring_Out_(move)"
+}

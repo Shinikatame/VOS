@@ -1,0 +1,15 @@
+{
+    "name": "Swallow",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "Heals the user based on uses of Stockpile.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/swallow",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/swallow.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Swallow_(move)"
+}

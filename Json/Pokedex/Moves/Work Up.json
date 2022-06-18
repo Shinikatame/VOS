@@ -1,0 +1,15 @@
+{
+    "name": "Work Up",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 30,
+    "target": "Self",
+    "shortDesc": "Raises the user's Attack and Sp. Atk by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/work-up",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/workup.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Work_Up_(move)"
+}

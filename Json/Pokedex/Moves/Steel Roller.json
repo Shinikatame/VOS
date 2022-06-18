@@ -1,0 +1,15 @@
+{
+    "name": "Steel Roller",
+    "type": "Steel",
+    "category": "Physical",
+    "basePower": 130,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Fails if there is no terrain active. Ends the terrain.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/steel-roller",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/steelroller.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Steel_Roller_(move)"
+}

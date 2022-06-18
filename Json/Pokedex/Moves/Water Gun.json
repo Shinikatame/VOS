@@ -1,0 +1,15 @@
+{
+    "name": "Water Gun",
+    "type": "Water",
+    "category": "Special",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 25,
+    "target": "Normal",
+    "shortDesc": "No additional effect.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/water-gun",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/watergun.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Water_Gun_(move)"
+}

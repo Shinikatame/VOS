@@ -1,0 +1,15 @@
+{
+    "name": "Poison Gas",
+    "type": "Poison",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 40,
+    "target": "Adjacent Foes",
+    "shortDesc": "Poisons the foe(s).",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/poison-gas",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/poisongas.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Poison_Gas_(move)"
+}

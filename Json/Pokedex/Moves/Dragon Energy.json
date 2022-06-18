@@ -1,0 +1,15 @@
+{
+    "name": "Dragon Energy",
+    "type": "Dragon",
+    "category": "Special",
+    "basePower": 150,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Adjacent Foes",
+    "shortDesc": "Less power as user's HP decreases. Hits foe(s).",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/dragon-energy",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/dragonenergy.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Dragon_Energy_(move)"
+}

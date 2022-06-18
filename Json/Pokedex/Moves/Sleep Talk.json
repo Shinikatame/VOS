@@ -1,0 +1,15 @@
+{
+    "name": "Sleep Talk",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "User must be asleep. Uses another known move.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sleep-talk",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/sleeptalk.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sleep_Talk_(move)"
+}

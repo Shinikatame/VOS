@@ -1,0 +1,15 @@
+{
+    "name": "Foul Play",
+    "type": "Dark",
+    "category": "Physical",
+    "basePower": 95,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Uses target's Attack stat in damage calculation.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/foul-play",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/foulplay.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Foul_Play_(move)"
+}

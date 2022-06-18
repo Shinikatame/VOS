@@ -1,0 +1,15 @@
+{
+    "name": "Ingrain",
+    "type": "Grass",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Self",
+    "shortDesc": "Traps/grounds user; heals 1/16 max HP per turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/ingrain",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/ingrain.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Ingrain_(move)"
+}

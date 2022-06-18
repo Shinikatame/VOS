@@ -1,0 +1,15 @@
+{
+    "name": "Rising Voltage",
+    "type": "Electric",
+    "category": "Special",
+    "basePower": 70,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "2x power if target is grounded in Electric Terrain.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/rising-voltage",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/risingvoltage.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Rising_Voltage_(move)"
+}

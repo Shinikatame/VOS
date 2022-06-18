@@ -1,0 +1,15 @@
+{
+    "name": "Destiny Bond",
+    "type": "Ghost",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Self",
+    "shortDesc": "If an opponent knocks out the user, it also faints.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/destiny-bond",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/destinybond.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Destiny_Bond_(move)"
+}

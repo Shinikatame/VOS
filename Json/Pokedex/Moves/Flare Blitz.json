@@ -1,0 +1,15 @@
+{
+    "name": "Flare Blitz",
+    "type": "Fire",
+    "category": "Physical",
+    "basePower": 120,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Has 33% recoil. 10% chance to burn. Thaws user.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/flare-blitz",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/flareblitz.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Flare_Blitz_(move)"
+}

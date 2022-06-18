@@ -1,0 +1,15 @@
+{
+    "name": "Life Dew",
+    "type": "Water",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Ally's Side",
+    "shortDesc": "Heals the user and its allies by 1/4 their max HP.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/life-dew",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/lifedew.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Life_Dew_(move)"
+}

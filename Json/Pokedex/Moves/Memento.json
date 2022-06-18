@@ -1,0 +1,15 @@
+{
+    "name": "Memento",
+    "type": "Dark",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Lowers target's Attack, Sp. Atk by 2. User faints.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/memento",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/memento.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Memento_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Sonic Boom",
+    "type": "Normal",
+    "category": "Special",
+    "basePower": 20,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Always does 20 HP of damage.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sonic-boom",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/sonicboom.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sonic_Boom_(move)"
+}

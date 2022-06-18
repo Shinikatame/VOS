@@ -1,0 +1,15 @@
+{
+    "name": "Baby-Doll Eyes",
+    "type": "Fairy",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 1,
+    "pp": 30,
+    "target": "Normal",
+    "shortDesc": "Lowers the target's Attack by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/baby-doll-eyes",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/babydolleyes.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Baby_doll_Eyes_(move)"
+}

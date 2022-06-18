@@ -1,0 +1,15 @@
+{
+    "name": "Sparkling Aria",
+    "type": "Water",
+    "category": "Special",
+    "basePower": 90,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "All Adjacent",
+    "shortDesc": "The target is cured of its burn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sparkling-aria",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/sparklingaria.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sparkling_Aria_(move)"
+}

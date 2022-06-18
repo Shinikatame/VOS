@@ -1,0 +1,15 @@
+{
+    "name": "Max Steelspike",
+    "type": "Steel",
+    "category": "Physical",
+    "basePower": 10,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Adjacent Foes",
+    "shortDesc": "Base move affects power. Allies: +1 Defense.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/max-steelspike",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/maxsteelspike.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Max_Steelspike_(move)"
+}

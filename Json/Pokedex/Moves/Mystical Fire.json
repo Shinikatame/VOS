@@ -1,0 +1,15 @@
+{
+    "name": "Mystical Fire",
+    "type": "Fire",
+    "category": "Special",
+    "basePower": 75,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "100% chance to lower the target's Sp. Atk by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/mystical-fire",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/mysticalfire.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Mystical_Fire_(move)"
+}

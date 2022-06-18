@@ -1,0 +1,15 @@
+{
+    "name": "Petal Blizzard",
+    "type": "Grass",
+    "category": "Physical",
+    "basePower": 90,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "All Adjacent",
+    "shortDesc": "No additional effect. Hits adjacent Pok\u00e9mon.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/petal-blizzard",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/petalblizzard.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Petal_Blizzard_(move)"
+}

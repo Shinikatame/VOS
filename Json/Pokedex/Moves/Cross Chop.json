@@ -1,0 +1,15 @@
+{
+    "name": "Cross Chop",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 100,
+    "accuracy": 80,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "High critical hit ratio.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/cross-chop",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/crosschop.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Cross_Chop_(move)"
+}

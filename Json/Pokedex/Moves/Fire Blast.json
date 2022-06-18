@@ -1,0 +1,15 @@
+{
+    "name": "Fire Blast",
+    "type": "Fire",
+    "category": "Special",
+    "basePower": 110,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "10% chance to burn the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/fire-blast",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/fireblast.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Fire_Blast_(move)"
+}

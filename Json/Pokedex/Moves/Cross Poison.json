@@ -1,0 +1,15 @@
+{
+    "name": "Cross Poison",
+    "type": "Poison",
+    "category": "Physical",
+    "basePower": 70,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "High critical hit ratio. 10% chance to poison.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/cross-poison",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/crosspoison.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Cross_Poison_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Ember",
+    "type": "Fire",
+    "category": "Special",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 25,
+    "target": "Normal",
+    "shortDesc": "10% chance to burn the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/ember",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/ember.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Ember_(move)"
+}

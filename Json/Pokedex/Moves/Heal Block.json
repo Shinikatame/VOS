@@ -1,0 +1,15 @@
+{
+    "name": "Heal Block",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Adjacent Foes",
+    "shortDesc": "For 5 turns, the foe(s) is prevented from healing.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/heal-block",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/healblock.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Heal_Block_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Swagger",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Raises the target's Attack by 2 and confuses it.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/swagger",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/swagger.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Swagger_(move)"
+}

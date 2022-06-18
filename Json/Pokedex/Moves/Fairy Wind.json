@@ -1,0 +1,15 @@
+{
+    "name": "Fairy Wind",
+    "type": "Fairy",
+    "category": "Special",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 30,
+    "target": "Normal",
+    "shortDesc": "No additional effect.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/fairy-wind",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/fairywind.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Fairy_Wind_(move)"
+}

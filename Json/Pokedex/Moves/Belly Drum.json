@@ -1,0 +1,15 @@
+{
+    "name": "Belly Drum",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "User loses 50% max HP. Maximizes Attack.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/belly-drum",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/bellydrum.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Belly_Drum_(move)"
+}

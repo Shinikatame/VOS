@@ -1,0 +1,15 @@
+{
+    "name": "Bolt Beak",
+    "type": "Electric",
+    "category": "Physical",
+    "basePower": 85,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Power doubles if user moves before the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/bolt-beak",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/boltbeak.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Bolt_Beak_(move)"
+}

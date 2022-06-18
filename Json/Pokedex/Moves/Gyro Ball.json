@@ -1,0 +1,15 @@
+{
+    "name": "Gyro Ball",
+    "type": "Steel",
+    "category": "Physical",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "More power the slower the user than the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/gyro-ball",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/gyroball.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Gyro_Ball_(move)"
+}

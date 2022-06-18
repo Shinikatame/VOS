@@ -1,0 +1,15 @@
+{
+    "name": "Freezing Glare",
+    "type": "Psychic",
+    "category": "Special",
+    "basePower": 90,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "10% chance to freeze the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/freezing-glare",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/freezingglare.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Freezing_Glare_(move)"
+}

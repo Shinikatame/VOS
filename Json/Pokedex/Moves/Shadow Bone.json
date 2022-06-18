@@ -1,0 +1,15 @@
+{
+    "name": "Shadow Bone",
+    "type": "Ghost",
+    "category": "Physical",
+    "basePower": 85,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "20% chance to lower the target's Defense by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/shadow-bone",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/shadowbone.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Shadow_Bone_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Leech Seed",
+    "type": "Grass",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "1/8 of target's HP is restored to user every turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/leech-seed",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/leechseed.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Leech_Seed_(move)"
+}

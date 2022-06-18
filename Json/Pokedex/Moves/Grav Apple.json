@@ -1,0 +1,15 @@
+{
+    "name": "Grav Apple",
+    "type": "Grass",
+    "category": "Physical",
+    "basePower": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Target: 100% -1 Def. During Gravity: 1.5x power.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/grav-apple",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/gravapple.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Grav_Apple_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Thunder Punch",
+    "type": "Electric",
+    "category": "Physical",
+    "basePower": 75,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "10% chance to paralyze the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/thunder-punch",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/thunderpunch.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Thunder_Punch_(move)"
+}

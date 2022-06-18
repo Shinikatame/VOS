@@ -1,0 +1,15 @@
+{
+    "name": "Volt Tackle",
+    "type": "Electric",
+    "category": "Physical",
+    "basePower": 120,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Has 33% recoil. 10% chance to paralyze target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/volt-tackle",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/volttackle.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Volt_Tackle_(move)"
+}

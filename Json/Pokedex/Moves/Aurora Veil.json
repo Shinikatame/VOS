@@ -1,0 +1,15 @@
+{
+    "name": "Aurora Veil",
+    "type": "Ice",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Ally's Side",
+    "shortDesc": "For 5 turns, damage to allies is halved. Hail only.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/aurora-veil",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/auroraveil.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Aurora_Veil_(move)"
+}

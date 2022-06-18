@@ -1,0 +1,15 @@
+{
+    "name": "Double Slap",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 15,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Hits 2-5 times in one turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/double-slap",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/doubleslap.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Double_Slap_(move)"
+}

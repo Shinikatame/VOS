@@ -1,0 +1,15 @@
+{
+    "name": "Diamond Storm",
+    "type": "Rock",
+    "category": "Physical",
+    "basePower": 100,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 5,
+    "target": "Adjacent Foes",
+    "shortDesc": "50% chance to raise user's Defense by 2.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/diamond-storm",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/diamondstorm.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Diamond_Storm_(move)"
+}

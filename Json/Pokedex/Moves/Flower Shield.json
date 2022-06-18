@@ -1,0 +1,15 @@
+{
+    "name": "Flower Shield",
+    "type": "Fairy",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "All",
+    "shortDesc": "Raises Defense by 1 of all active Grass types.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/flower-shield",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/flowershield.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Flower_Shield_(move)"
+}

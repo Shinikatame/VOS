@@ -1,0 +1,15 @@
+{
+    "name": "Magnitude",
+    "type": "Ground",
+    "category": "Physical",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 30,
+    "target": "All Adjacent",
+    "shortDesc": "Hits adjacent Pok\u00e9mon. Power varies; 2x on Dig.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/magnitude",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/magnitude.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Magnitude_(move)"
+}

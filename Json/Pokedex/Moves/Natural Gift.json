@@ -1,0 +1,15 @@
+{
+    "name": "Natural Gift",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Power and type depends on the user's Berry.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/natural-gift",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/naturalgift.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Natural_Gift_(move)"
+}

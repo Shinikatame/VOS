@@ -1,0 +1,15 @@
+{
+    "name": "Roar of Time",
+    "type": "Dragon",
+    "category": "Special",
+    "basePower": 150,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "User cannot move next turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/roar-of-time",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/roaroftime.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Roar_Of_Time_(move)"
+}

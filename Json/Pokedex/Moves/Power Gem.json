@@ -1,0 +1,15 @@
+{
+    "name": "Power Gem",
+    "type": "Rock",
+    "category": "Special",
+    "basePower": 80,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "No additional effect.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/power-gem",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/powergem.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Power_Gem_(move)"
+}

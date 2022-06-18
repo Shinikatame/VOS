@@ -1,0 +1,15 @@
+{
+    "name": "Razor Leaf",
+    "type": "Grass",
+    "category": "Physical",
+    "basePower": 55,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 25,
+    "target": "Adjacent Foes",
+    "shortDesc": "High critical hit ratio. Hits adjacent foes.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/razor-leaf",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/razorleaf.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Razor_Leaf_(move)"
+}

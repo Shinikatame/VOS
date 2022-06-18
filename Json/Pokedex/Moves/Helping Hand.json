@@ -1,0 +1,15 @@
+{
+    "name": "Helping Hand",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 5,
+    "pp": 20,
+    "target": "Adjacent Ally",
+    "shortDesc": "One adjacent ally's move power is 1.5x this turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/helping-hand",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/helpinghand.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Helping_Hand_(move)"
+}

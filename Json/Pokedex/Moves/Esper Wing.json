@@ -1,0 +1,15 @@
+{
+    "name": "Esper Wing",
+    "type": "Psychic",
+    "category": "Physical",
+    "basePower": 75,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "High critical hit chance. Raises user's action speed",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/esper-wing",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/esperwing.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Esper_Wing_(move)"
+}

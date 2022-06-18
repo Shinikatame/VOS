@@ -1,0 +1,15 @@
+{
+    "name": "Mach Punch",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 1,
+    "pp": 30,
+    "target": "Normal",
+    "shortDesc": "Usually goes first.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/mach-punch",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/machpunch.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Mach_Punch_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Thunder Wave",
+    "type": "Electric",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Paralyzes the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/thunder-wave",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/thunderwave.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Thunder_Wave_(move)"
+}

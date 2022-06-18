@@ -1,0 +1,15 @@
+{
+    "name": "Psybeam",
+    "type": "Psychic",
+    "category": "Special",
+    "basePower": 65,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "10% chance to confuse the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/psybeam",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/psybeam.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Psybeam_(move)"
+}

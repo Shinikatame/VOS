@@ -1,0 +1,15 @@
+{
+    "name": "Ice Burn",
+    "type": "Ice",
+    "category": "Special",
+    "basePower": 140,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Charges turn 1. Hits turn 2. 30% burn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/ice-burn",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/iceburn.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Ice_Burn_(move)"
+}

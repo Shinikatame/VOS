@@ -1,0 +1,15 @@
+{
+    "name": "Draco Meteor",
+    "type": "Dragon",
+    "category": "Special",
+    "basePower": 130,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Lowers the user's Sp. Atk by 2.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/draco-meteor",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/dracometeor.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Draco_Meteor_(move)"
+}

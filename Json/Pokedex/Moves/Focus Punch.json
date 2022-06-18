@@ -1,0 +1,15 @@
+{
+    "name": "Focus Punch",
+    "type": "Fighting",
+    "category": "Physical",
+    "basePower": 150,
+    "accuracy": 100,
+    "priority": -3,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Fails if the user takes damage before it hits.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/focus-punch",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/focuspunch.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Focus_Punch_(move)"
+}

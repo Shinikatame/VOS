@@ -1,0 +1,15 @@
+{
+    "name": "Present",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 0,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "40, 80, 120 power, or heals target by 1/4 max HP.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/present",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/present.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Present_(move)"
+}

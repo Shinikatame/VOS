@@ -1,0 +1,15 @@
+{
+    "name": "Max Rockfall",
+    "type": "Rock",
+    "category": "Physical",
+    "basePower": 10,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Adjacent Foes",
+    "shortDesc": "For 5 turns, a sandstorm rages. Rock: 1.5x SpD.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/max-rockfall",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/maxrockfall.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Max_Rockfall_(move)"
+}

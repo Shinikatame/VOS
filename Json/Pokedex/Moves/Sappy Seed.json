@@ -1,0 +1,15 @@
+{
+    "name": "Sappy Seed",
+    "type": "Grass",
+    "category": "Physical",
+    "basePower": 100,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Summons Leech Seed.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/sappy-seed",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/sappyseed.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Sappy_Seed_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Bind",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 15,
+    "accuracy": 85,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Traps and damages the target for 4-5 turns.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/bind",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/bind.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Bind_(move)"
+}

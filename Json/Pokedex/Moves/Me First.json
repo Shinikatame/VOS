@@ -1,0 +1,15 @@
+{
+    "name": "Me First",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Adjacent Foes",
+    "shortDesc": "Copies a foe at 1.5x power. User must be faster.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/me-first",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/mefirst.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Me_First_(move)"
+}

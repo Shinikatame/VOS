@@ -1,0 +1,15 @@
+{
+    "name": "Crush Claw",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 75,
+    "accuracy": 95,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "50% chance to lower the target's Defense by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/crush-claw",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/crushclaw.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Crush_Claw_(move)"
+}

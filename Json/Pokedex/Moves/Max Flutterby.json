@@ -1,0 +1,15 @@
+{
+    "name": "Max Flutterby",
+    "type": "Bug",
+    "category": "Physical",
+    "basePower": 10,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Adjacent Foes",
+    "shortDesc": "Base move affects power. Foes: -1 Sp. Atk.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/max-flutterby",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/maxflutterby.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Max_Flutterby_(move)"
+}

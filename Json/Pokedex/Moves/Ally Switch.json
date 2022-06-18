@@ -1,0 +1,15 @@
+{
+    "name": "Ally Switch",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 2,
+    "pp": 15,
+    "target": "Self",
+    "shortDesc": "The user swaps positions with its ally.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/ally-switch",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/allyswitch.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Ally_Switch_(move)"
+}

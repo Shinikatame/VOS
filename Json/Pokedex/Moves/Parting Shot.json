@@ -1,0 +1,15 @@
+{
+    "name": "Parting Shot",
+    "type": "Dark",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Lowers target's Atk, Sp. Atk by 1. User switches.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/parting-shot",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/partingshot.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Parting_Shot_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Chatter",
+    "type": "Flying",
+    "category": "Special",
+    "basePower": 65,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Any",
+    "shortDesc": "100% chance to confuse the target.",
+    "isFieldMove": "It can be used to record and temporarily alter the battle cry of a Chatot. It does not function correctly with other Pok\u00e9mon. The recorded audio is reset to Chatot's default cry when it is deposited into a box.",
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/chatter",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/chatter.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Chatter_(move)"
+}

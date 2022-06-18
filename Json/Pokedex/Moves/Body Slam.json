@@ -1,0 +1,15 @@
+{
+    "name": "Body Slam",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 85,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "30% chance to paralyze the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/body-slam",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/bodyslam.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Body_Slam_(move)"
+}

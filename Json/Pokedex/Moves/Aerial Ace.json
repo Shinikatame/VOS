@@ -1,0 +1,15 @@
+{
+    "name": "Aerial Ace",
+    "type": "Flying",
+    "category": "Physical",
+    "basePower": 60,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Any",
+    "shortDesc": "This move does not check accuracy.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/aerial-ace",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/aerialace.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Aerial_Ace_(move)"
+}

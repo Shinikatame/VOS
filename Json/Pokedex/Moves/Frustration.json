@@ -1,0 +1,15 @@
+{
+    "name": "Frustration",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": "(255 - user's Happiness) * 2/5",
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Max 102 power at minimum Happiness.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/frustration",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/frustration.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Frustration_(move)"
+}

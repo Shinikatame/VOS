@@ -1,0 +1,15 @@
+{
+    "name": "Torment",
+    "type": "Dark",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Target can't select the same move twice in a row.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/torment",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/torment.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Torment_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Fake Tears",
+    "type": "Dark",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "Lowers the target's Sp. Def by 2.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/fake-tears",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/faketears.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Fake_Tears_(move)"
+}

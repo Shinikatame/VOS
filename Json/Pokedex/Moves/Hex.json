@@ -1,0 +1,15 @@
+{
+    "name": "Hex",
+    "type": "Ghost",
+    "category": "Special",
+    "basePower": 65,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Power doubles if the target has a status ailment.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/hex",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/hex.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Hex_(move)"
+}

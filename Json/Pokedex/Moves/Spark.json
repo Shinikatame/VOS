@@ -1,0 +1,15 @@
+{
+    "name": "Spark",
+    "type": "Electric",
+    "category": "Physical",
+    "basePower": 65,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Normal",
+    "shortDesc": "30% chance to paralyze the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/spark",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/spark.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Spark_(move)"
+}

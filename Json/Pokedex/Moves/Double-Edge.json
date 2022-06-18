@@ -1,0 +1,15 @@
+{
+    "name": "Double-Edge",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 120,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Has 33% recoil.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/double-edge",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/doubleedge.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Double_edge_(move)"
+}

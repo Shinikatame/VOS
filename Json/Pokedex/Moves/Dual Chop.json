@@ -1,0 +1,15 @@
+{
+    "name": "Dual Chop",
+    "type": "Dragon",
+    "category": "Physical",
+    "basePower": 40,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Hits 2 times in one turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/dual-chop",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/dualchop.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Dual_Chop_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Teeter Dance",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "All Adjacent",
+    "shortDesc": "Confuses adjacent Pok\u00e9mon.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/teeter-dance",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/teeterdance.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Teeter_Dance_(move)"
+}

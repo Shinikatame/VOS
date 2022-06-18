@@ -1,0 +1,15 @@
+{
+    "name": "Hold Back",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 40,
+    "target": "Normal",
+    "shortDesc": "Always leaves the target with at least 1 HP.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/hold-back",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/holdback.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Hold_Back_(move)"
+}

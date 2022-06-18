@@ -1,0 +1,15 @@
+{
+    "name": "Grass Knot",
+    "type": "Grass",
+    "category": "Special",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Adjacent Foes",
+    "shortDesc": "More power the heavier the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/grass-knot",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/grassknot.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Grass_Knot_(move)"
+}

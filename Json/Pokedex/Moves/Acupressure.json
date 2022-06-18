@@ -1,0 +1,15 @@
+{
+    "name": "Acupressure",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 30,
+    "target": "Adjacent Ally or Self",
+    "shortDesc": "Raises a random stat of the user or an ally by 2.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/acupressure",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/acupressure.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Acupressure_(move)"
+}

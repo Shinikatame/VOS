@@ -1,0 +1,15 @@
+{
+    "name": "Wild Charge",
+    "type": "Electric",
+    "category": "Physical",
+    "basePower": 90,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Has 1/4 recoil.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/wild-charge",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/wildcharge.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Wild_Charge_(move)"
+}

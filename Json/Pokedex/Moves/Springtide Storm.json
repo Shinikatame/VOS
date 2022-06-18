@@ -1,0 +1,15 @@
+{
+    "name": "Springtide Storm",
+    "type": "Fairy",
+    "category": "Special",
+    "basePower": 95,
+    "accuracy": 80,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "30% chance to boost all stats (Incarnate) or 30% to lower target's defensive stats (Therian)",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/springtide-storm",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/springtidestorm.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Springtide_Storm_(move)"
+}

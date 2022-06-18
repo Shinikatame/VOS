@@ -1,0 +1,15 @@
+{
+    "name": "Echoed Voice",
+    "type": "Normal",
+    "category": "Special",
+    "basePower": 40,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Power increases when used on consecutive turns.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/echoed-voice",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/echoedvoice.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Echoed_Voice_(move)"
+}

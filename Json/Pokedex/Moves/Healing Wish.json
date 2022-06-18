@@ -1,0 +1,15 @@
+{
+    "name": "Healing Wish",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "Self",
+    "shortDesc": "User faints. Next hurt Pok\u00e9mon is fully healed.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/healing-wish",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/healingwish.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Healing_Wish_(move)"
+}

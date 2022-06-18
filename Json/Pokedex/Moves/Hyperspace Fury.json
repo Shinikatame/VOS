@@ -1,0 +1,15 @@
+{
+    "name": "Hyperspace Fury",
+    "type": "Dark",
+    "category": "Physical",
+    "basePower": 100,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "Hoopa-U: Lowers user's Def by 1; breaks protection.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/hyperspace-fury",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/hyperspacefury.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Hyperspace_Fury_(move)"
+}

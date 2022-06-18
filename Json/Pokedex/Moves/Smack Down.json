@@ -1,0 +1,15 @@
+{
+    "name": "Smack Down",
+    "type": "Rock",
+    "category": "Physical",
+    "basePower": 50,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "Removes the target's Ground immunity.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/smack-down",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/smackdown.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Smack_Down_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Flail",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "More power the less HP the user has left.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/flail",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/flail.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Flail_(move)"
+}

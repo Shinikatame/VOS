@@ -1,0 +1,15 @@
+{
+    "name": "Flamethrower",
+    "type": "Fire",
+    "category": "Special",
+    "basePower": 90,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 15,
+    "target": "Normal",
+    "shortDesc": "10% chance to burn the target.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/flamethrower",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/flamethrower.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Flamethrower_(move)"
+}

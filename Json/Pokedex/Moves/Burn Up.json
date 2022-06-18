@@ -1,0 +1,15 @@
+{
+    "name": "Burn Up",
+    "type": "Fire",
+    "category": "Special",
+    "basePower": 130,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 5,
+    "target": "Normal",
+    "shortDesc": "User's Fire type becomes typeless; must be Fire.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/burn-up",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/burnup.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Burn_Up_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Struggle",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 50,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 1,
+    "target": "Random",
+    "shortDesc": "User loses 25% of its max HP as recoil.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/struggle",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/struggle.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Struggle_(move)"
+}

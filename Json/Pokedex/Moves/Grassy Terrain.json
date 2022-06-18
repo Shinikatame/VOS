@@ -1,0 +1,15 @@
+{
+    "name": "Grassy Terrain",
+    "type": "Grass",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "All",
+    "shortDesc": "5 turns. Grounded: +Grass power,+1/16 max HP.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/grassy-terrain",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/grassyterrain.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Grassy_Terrain_(move)"
+}

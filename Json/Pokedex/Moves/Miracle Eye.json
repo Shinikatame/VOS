@@ -1,0 +1,15 @@
+{
+    "name": "Miracle Eye",
+    "type": "Psychic",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 40,
+    "target": "Normal",
+    "shortDesc": "Psychic hits Dark. Evasiveness ignored.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/miracle-eye",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/miracleeye.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Miracle_Eye_(move)"
+}

@@ -1,0 +1,15 @@
+{
+    "name": "Icicle Spear",
+    "type": "Ice",
+    "category": "Physical",
+    "basePower": 25,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 30,
+    "target": "Normal",
+    "shortDesc": "Hits 2-5 times in one turn.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/icicle-spear",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/iciclespear.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Icicle_Spear_(move)"
+}

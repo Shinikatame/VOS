@@ -1,0 +1,15 @@
+{
+    "name": "Venom Drench",
+    "type": "Poison",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 20,
+    "target": "Adjacent Foes",
+    "shortDesc": "Lowers Atk, Sp. Atk, Speed of poisoned foes by 1.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/venom-drench",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/venomdrench.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Venom_Drench_(move)"
+}

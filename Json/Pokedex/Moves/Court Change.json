@@ -1,0 +1,15 @@
+{
+    "name": "Court Change",
+    "type": "Normal",
+    "category": "Status",
+    "basePower": 0,
+    "accuracy": 100,
+    "priority": 0,
+    "pp": 10,
+    "target": "All",
+    "shortDesc": "Swaps user's field effects with the opposing side.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/court-change",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/courtchange.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Court_Change_(move)"
+}

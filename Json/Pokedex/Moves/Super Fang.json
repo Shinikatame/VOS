@@ -1,0 +1,15 @@
+{
+    "name": "Super Fang",
+    "type": "Normal",
+    "category": "Physical",
+    "basePower": 0,
+    "accuracy": 90,
+    "priority": 0,
+    "pp": 10,
+    "target": "Normal",
+    "shortDesc": "Does damage equal to 1/2 target's current HP.",
+    "isFieldMove": null,
+    "smogonPage": "https://www.smogon.com/dex/ss/moves/super-fang",
+    "serebiiPage": "https://www.serebii.net/attackdex-swsh/superfang.shtml",
+    "bulbapediaPage": "https://bulbapedia.bulbagarden.net/wiki/Super_Fang_(move)"
+}
