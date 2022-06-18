@@ -6,7 +6,7 @@ def pokemonE(data: dict):
     embed.title = f'`{data["_id"]}` {data["species"].capitalize()}'
     embed.set_image(url = data['sprite'])
 
-    url = f'https://raw.githubusercontent.com/Shinikatame/ayumin/master/VOS/Images/Types/'
+    url = f'https://raw.githubusercontent.com/Shinikatame/VOS/main/Images/Images/Types/'
     types = '-'.join(data['types'])
     embed.set_thumbnail(url = url + f'{types}.png')
     

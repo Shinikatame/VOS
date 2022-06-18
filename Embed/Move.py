@@ -26,7 +26,7 @@ def moveE(data: dict):
     embed.title = data['name']
     embed.description = data['shortDesc']
 
-    url = f'https://raw.githubusercontent.com/Shinikatame/ayumin/master/VOS/Images/Category/'
+    url = f'https://raw.githubusercontent.com/Shinikatame/VOS/main/Images/Category/'
     category = f'{data["type"]}-{data["category"]}'
     embed.set_thumbnail(url = url + f'{category}.png')
 
