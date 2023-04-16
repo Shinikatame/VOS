@@ -5,7 +5,7 @@ from DataBase.Trainers import  update_many, find
 
 from Components.Views.Trainer.Standard import Standard
 
-from Embed.Trainer import trainerE 
+from Embed.Trainer import trainerE
 
 from Modules.Json import jsonLoad
 from Modules.Check import check
@@ -31,7 +31,7 @@ class Reset(Cog):
                 embed = trainerE(payload, member, inter.user)
 
                 view = Standard(self.bot, payload)
-                await message.edit(embed = embed, view = view)
+                await message.edit(f'{member.mention} **{member.display_name}**', embed = embed, view = view)
 
             await response.edit_original_message(content = 'Terminado.')
 

@@ -18,7 +18,7 @@ class Trainer(Cog):
         data = find(member.id)
         
         embed = trainerE(data, member, inter.user)
-        response = await inter.response.send_message(embed = embed, ephemeral = True)
+        response = await inter.response.send_message(f'{member.mention} **{member.display_name}**', embed = embed, ephemeral = True)
 
         view = Standard(self.bot, data, response)
         await response.edit_original_message(view = view)

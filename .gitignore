@@ -1,4 +1,8 @@
 **/__pycache__
 .vscode
 .env
+venv
 Txt
+
+_Discord/_*
+data

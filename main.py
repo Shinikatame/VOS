@@ -1,8 +1,3 @@
-from os import getcwd, chdir
-
-if not getcwd().endswith('VOS'):
-    chdir('VOS')
-
 from discord import Intents
 from discord.ext.commands import Bot
 
