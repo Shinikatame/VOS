@@ -44,6 +44,6 @@ class Registry(Modal):
 
         view = Standard(inter.client ,data)
         embed = trainerE(data, user, client)
-        await message.edit(view = view, embed = embed)
+        await message.edit(f'{inter.user.mention} **{self.name.value}**', view = view, embed = embed)
         
         insert_one(inter.user.id, message.id)
